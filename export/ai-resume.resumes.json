@@ -1,0 +1,1016 @@
+[{
+  "_id": {
+    "$oid": "6a72387e80c8ae9fb0c5e8a8"
+  },
+  "userId": {
+    "$oid": "6a72384280c8ae9fb0c5e89f"
+  },
+  "fileName": "SakshamResume.pdf",
+  "fileUrl": "uploads\\6a72384280c8ae9fb0c5e89f-1785870461859.pdf",
+  "extractedText": "SAKSHAMPRASAD +917737967730|sakshamprasad179@gmail.com|Indore, India  linkedin.com/in/saksham-prasad-b15815254 PROFESSIONALSUMMARY B.TechComputerSciencegraduatewithstrongfoundationsinC,C++,andJavaScript,andhands-onexperienceinfrontend andfull-stackwebdevelopment.Proficientinbuildingresponsive,user-friendlyapplicationsusingReact.jsandtheMERN stack. Passionate about writing clean code, learning modern web technologies, and contributing to real world software solutions. EDUCATION BachelorofTechnology(B.Tech)ComputerScienceEngineering ChameliDeviGroupofInstitutions,Indore(2022-2026) CGPA:7.50 TECHNICALSKILLS Frontend:HTML5,CSS3,JavaScript(ES6+),React.js,Angular Backend:Node.js,Express.js Databases:MongoDB,MySql ProgrammingLanguages:C,C++,Python Tools&Concepts:RESTAPIs,CRUDOperations,ResponsiveDesign,Git(basic),Postman,Tablaue,Figma SoftSkills:Analyticalthinking,problem-solving,communication,teamwork PROJECTS AI-PoweredPoetry&StoryGenerator TechStack:React.js,Node.js,Express.js,MongoDB,HTML,CSS,JavaScript,JWT,Nodemailer,TailwindCSS  Designedanddevelopedafull-stackAI-poweredcontentgenerationplatformforstories,poems,andjokes .  ImplementedsecureJWTauthenticationwithemailverification,OTP-basedpasswordreset,andrefreshtokenrotation. IntegratedtheGroqAIAPItogeneratecreativecontentandbuiltRESTfulAPIsusingtheMVCarchitecture. SmartTrafficAI TechStack:React.js,Node.js,Express.js,MongoDB,GroqAI,JWT,Nodemailer,TailwindCSS Designedanddevelopedafull-stackAI-poweredtrafficmanagementplatformwithreal-timetrafficmonitoring ImplementedsecureJWTauthentication,bcryptpasswordhashing,andprotectedAPIroutes.  IntegratedA*pathfindingandML-basedcongestionpredictionforoptimizedrouteplanning. INTERNSHIP  Role:UIIntern(Angular)  Organization:TechMahindraLtd.,Gurugram  Duration:July15,2025-October15,2025  Responsibilities &Contribution:Developed and improved responsive web interface leveraging Angular framework. Worked closely with the backend team to integrate APIs and ensure seamless application performance.  Technologies:AngularJS,JavaScript,HTML,CSS CERTIFICATIONS C&C++:UniversalInformatics PromptEngineering:InfosysSpringboard AWSCloudPractitioner:AWSSkillBuilder DataAnalyticsJobSimulationusingtablue:Delloite,Forage ACHIEVEMENT  ParticipatedinacollegelevelhackathonHackWave(36-hour),collaboratingonrealworldproblemsolving.  ReceivedahardwarekitfromIITBombayforparticipationinthee-YantraRoboticsCompetition.",
+  "extractedSkills": [],
+  "projects": [],
+  "createdAt": {
+    "$date": "2026-08-04T19:07:42.818Z"
+  },
+  "updatedAt": {
+    "$date": "2026-08-04T19:07:42.818Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a723947f10ae4e539281ee0"
+  },
+  "userId": {
+    "$oid": "6a72384280c8ae9fb0c5e89f"
+  },
+  "fileName": "SakshamResume.pdf",
+  "fileUrl": "uploads\\6a72384280c8ae9fb0c5e89f-1785870662849.pdf",
+  "extractedText": "SAKSHAMPRASAD +917737967730|sakshamprasad179@gmail.com|Indore, India  linkedin.com/in/saksham-prasad-b15815254 PROFESSIONALSUMMARY B.TechComputerSciencegraduatewithstrongfoundationsinC,C++,andJavaScript,andhands-onexperienceinfrontend andfull-stackwebdevelopment.Proficientinbuildingresponsive,user-friendlyapplicationsusingReact.jsandtheMERN stack. Passionate about writing clean code, learning modern web technologies, and contributing to real world software solutions. EDUCATION BachelorofTechnology(B.Tech)ComputerScienceEngineering ChameliDeviGroupofInstitutions,Indore(2022-2026) CGPA:7.50 TECHNICALSKILLS Frontend:HTML5,CSS3,JavaScript(ES6+),React.js,Angular Backend:Node.js,Express.js Databases:MongoDB,MySql ProgrammingLanguages:C,C++,Python Tools&Concepts:RESTAPIs,CRUDOperations,ResponsiveDesign,Git(basic),Postman,Tablaue,Figma SoftSkills:Analyticalthinking,problem-solving,communication,teamwork PROJECTS AI-PoweredPoetry&StoryGenerator TechStack:React.js,Node.js,Express.js,MongoDB,HTML,CSS,JavaScript,JWT,Nodemailer,TailwindCSS  Designedanddevelopedafull-stackAI-poweredcontentgenerationplatformforstories,poems,andjokes .  ImplementedsecureJWTauthenticationwithemailverification,OTP-basedpasswordreset,andrefreshtokenrotation. IntegratedtheGroqAIAPItogeneratecreativecontentandbuiltRESTfulAPIsusingtheMVCarchitecture. SmartTrafficAI TechStack:React.js,Node.js,Express.js,MongoDB,GroqAI,JWT,Nodemailer,TailwindCSS Designedanddevelopedafull-stackAI-poweredtrafficmanagementplatformwithreal-timetrafficmonitoring ImplementedsecureJWTauthentication,bcryptpasswordhashing,andprotectedAPIroutes.  IntegratedA*pathfindingandML-basedcongestionpredictionforoptimizedrouteplanning. INTERNSHIP  Role:UIIntern(Angular)  Organization:TechMahindraLtd.,Gurugram  Duration:July15,2025-October15,2025  Responsibilities &Contribution:Developed and improved responsive web interface leveraging Angular framework. Worked closely with the backend team to integrate APIs and ensure seamless application performance.  Technologies:AngularJS,JavaScript,HTML,CSS CERTIFICATIONS C&C++:UniversalInformatics PromptEngineering:InfosysSpringboard AWSCloudPractitioner:AWSSkillBuilder DataAnalyticsJobSimulationusingtablue:Delloite,Forage ACHIEVEMENT  ParticipatedinacollegelevelhackathonHackWave(36-hour),collaboratingonrealworldproblemsolving.  ReceivedahardwarekitfromIITBombayforparticipationinthee-YantraRoboticsCompetition.",
+  "extractedSkills": [],
+  "projects": [],
+  "createdAt": {
+    "$date": "2026-08-04T19:11:03.753Z"
+  },
+  "updatedAt": {
+    "$date": "2026-08-04T19:11:03.753Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a7239f65cf5fe9433e239d3"
+  },
+  "userId": {
+    "$oid": "6a72384280c8ae9fb0c5e89f"
+  },
+  "fileName": "SakshamResume.pdf",
+  "fileUrl": "uploads\\6a72384280c8ae9fb0c5e89f-1785870837954.pdf",
+  "extractedText": "SAKSHAMPRASAD +917737967730|sakshamprasad179@gmail.com|Indore, India  linkedin.com/in/saksham-prasad-b15815254 PROFESSIONALSUMMARY B.TechComputerSciencegraduatewithstrongfoundationsinC,C++,andJavaScript,andhands-onexperienceinfrontend andfull-stackwebdevelopment.Proficientinbuildingresponsive,user-friendlyapplicationsusingReact.jsandtheMERN stack. Passionate about writing clean code, learning modern web technologies, and contributing to real world software solutions. EDUCATION BachelorofTechnology(B.Tech)ComputerScienceEngineering ChameliDeviGroupofInstitutions,Indore(2022-2026) CGPA:7.50 TECHNICALSKILLS Frontend:HTML5,CSS3,JavaScript(ES6+),React.js,Angular Backend:Node.js,Express.js Databases:MongoDB,MySql ProgrammingLanguages:C,C++,Python Tools&Concepts:RESTAPIs,CRUDOperations,ResponsiveDesign,Git(basic),Postman,Tablaue,Figma SoftSkills:Analyticalthinking,problem-solving,communication,teamwork PROJECTS AI-PoweredPoetry&StoryGenerator TechStack:React.js,Node.js,Express.js,MongoDB,HTML,CSS,JavaScript,JWT,Nodemailer,TailwindCSS  Designedanddevelopedafull-stackAI-poweredcontentgenerationplatformforstories,poems,andjokes .  ImplementedsecureJWTauthenticationwithemailverification,OTP-basedpasswordreset,andrefreshtokenrotation. IntegratedtheGroqAIAPItogeneratecreativecontentandbuiltRESTfulAPIsusingtheMVCarchitecture. SmartTrafficAI TechStack:React.js,Node.js,Express.js,MongoDB,GroqAI,JWT,Nodemailer,TailwindCSS Designedanddevelopedafull-stackAI-poweredtrafficmanagementplatformwithreal-timetrafficmonitoring ImplementedsecureJWTauthentication,bcryptpasswordhashing,andprotectedAPIroutes.  IntegratedA*pathfindingandML-basedcongestionpredictionforoptimizedrouteplanning. INTERNSHIP  Role:UIIntern(Angular)  Organization:TechMahindraLtd.,Gurugram  Duration:July15,2025-October15,2025  Responsibilities &Contribution:Developed and improved responsive web interface leveraging Angular framework. Worked closely with the backend team to integrate APIs and ensure seamless application performance.  Technologies:AngularJS,JavaScript,HTML,CSS CERTIFICATIONS C&C++:UniversalInformatics PromptEngineering:InfosysSpringboard AWSCloudPractitioner:AWSSkillBuilder DataAnalyticsJobSimulationusingtablue:Delloite,Forage ACHIEVEMENT  ParticipatedinacollegelevelhackathonHackWave(36-hour),collaboratingonrealworldproblemsolving.  ReceivedahardwarekitfromIITBombayforparticipationinthee-YantraRoboticsCompetition.",
+  "extractedSkills": [],
+  "projects": [],
+  "createdAt": {
+    "$date": "2026-08-04T19:13:58.198Z"
+  },
+  "updatedAt": {
+    "$date": "2026-08-04T19:13:58.198Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a723c8b6d07dbd8ec70c09e"
+  },
+  "userId": {
+    "$oid": "6a72384280c8ae9fb0c5e89f"
+  },
+  "fileName": "SakshamResume.pdf",
+  "fileUrl": "uploads\\6a72384280c8ae9fb0c5e89f-1785871499498.pdf",
+  "extractedText": "SAKSHAMPRASAD +917737967730|sakshamprasad179@gmail.com|Indore, India  linkedin.com/in/saksham-prasad-b15815254 PROFESSIONALSUMMARY B.TechComputerSciencegraduatewithstrongfoundationsinC,C++,andJavaScript,andhands-onexperienceinfrontend andfull-stackwebdevelopment.Proficientinbuildingresponsive,user-friendlyapplicationsusingReact.jsandtheMERN stack. Passionate about writing clean code, learning modern web technologies, and contributing to real world software solutions. EDUCATION BachelorofTechnology(B.Tech)ComputerScienceEngineering ChameliDeviGroupofInstitutions,Indore(2022-2026) CGPA:7.50 TECHNICALSKILLS Frontend:HTML5,CSS3,JavaScript(ES6+),React.js,Angular Backend:Node.js,Express.js Databases:MongoDB,MySql ProgrammingLanguages:C,C++,Python Tools&Concepts:RESTAPIs,CRUDOperations,ResponsiveDesign,Git(basic),Postman,Tablaue,Figma SoftSkills:Analyticalthinking,problem-solving,communication,teamwork PROJECTS AI-PoweredPoetry&StoryGenerator TechStack:React.js,Node.js,Express.js,MongoDB,HTML,CSS,JavaScript,JWT,Nodemailer,TailwindCSS  Designedanddevelopedafull-stackAI-poweredcontentgenerationplatformforstories,poems,andjokes .  ImplementedsecureJWTauthenticationwithemailverification,OTP-basedpasswordreset,andrefreshtokenrotation. IntegratedtheGroqAIAPItogeneratecreativecontentandbuiltRESTfulAPIsusingtheMVCarchitecture. SmartTrafficAI TechStack:React.js,Node.js,Express.js,MongoDB,GroqAI,JWT,Nodemailer,TailwindCSS Designedanddevelopedafull-stackAI-poweredtrafficmanagementplatformwithreal-timetrafficmonitoring ImplementedsecureJWTauthentication,bcryptpasswordhashing,andprotectedAPIroutes.  IntegratedA*pathfindingandML-basedcongestionpredictionforoptimizedrouteplanning. INTERNSHIP  Role:UIIntern(Angular)  Organization:TechMahindraLtd.,Gurugram  Duration:July15,2025-October15,2025  Responsibilities &Contribution:Developed and improved responsive web interface leveraging Angular framework. Worked closely with the backend team to integrate APIs and ensure seamless application performance.  Technologies:AngularJS,JavaScript,HTML,CSS CERTIFICATIONS C&C++:UniversalInformatics PromptEngineering:InfosysSpringboard AWSCloudPractitioner:AWSSkillBuilder DataAnalyticsJobSimulationusingtablue:Delloite,Forage ACHIEVEMENT  ParticipatedinacollegelevelhackathonHackWave(36-hour),collaboratingonrealworldproblemsolving.  ReceivedahardwarekitfromIITBombayforparticipationinthee-YantraRoboticsCompetition.",
+  "extractedSkills": [],
+  "projects": [],
+  "createdAt": {
+    "$date": "2026-08-04T19:24:59.707Z"
+  },
+  "updatedAt": {
+    "$date": "2026-08-04T19:24:59.707Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a723d1ba7f1944369a1ae29"
+  },
+  "userId": {
+    "$oid": "6a72384280c8ae9fb0c5e89f"
+  },
+  "fileName": "SakshamResume.pdf",
+  "fileUrl": "uploads\\6a72384280c8ae9fb0c5e89f-1785871642774.pdf",
+  "extractedText": "SAKSHAMPRASAD +917737967730|sakshamprasad179@gmail.com|Indore, India  linkedin.com/in/saksham-prasad-b15815254 PROFESSIONALSUMMARY B.TechComputerSciencegraduatewithstrongfoundationsinC,C++,andJavaScript,andhands-onexperienceinfrontend andfull-stackwebdevelopment.Proficientinbuildingresponsive,user-friendlyapplicationsusingReact.jsandtheMERN stack. Passionate about writing clean code, learning modern web technologies, and contributing to real world software solutions. EDUCATION BachelorofTechnology(B.Tech)ComputerScienceEngineering ChameliDeviGroupofInstitutions,Indore(2022-2026) CGPA:7.50 TECHNICALSKILLS Frontend:HTML5,CSS3,JavaScript(ES6+),React.js,Angular Backend:Node.js,Express.js Databases:MongoDB,MySql ProgrammingLanguages:C,C++,Python Tools&Concepts:RESTAPIs,CRUDOperations,ResponsiveDesign,Git(basic),Postman,Tablaue,Figma SoftSkills:Analyticalthinking,problem-solving,communication,teamwork PROJECTS AI-PoweredPoetry&StoryGenerator TechStack:React.js,Node.js,Express.js,MongoDB,HTML,CSS,JavaScript,JWT,Nodemailer,TailwindCSS  Designedanddevelopedafull-stackAI-poweredcontentgenerationplatformforstories,poems,andjokes .  ImplementedsecureJWTauthenticationwithemailverification,OTP-basedpasswordreset,andrefreshtokenrotation. IntegratedtheGroqAIAPItogeneratecreativecontentandbuiltRESTfulAPIsusingtheMVCarchitecture. SmartTrafficAI TechStack:React.js,Node.js,Express.js,MongoDB,GroqAI,JWT,Nodemailer,TailwindCSS Designedanddevelopedafull-stackAI-poweredtrafficmanagementplatformwithreal-timetrafficmonitoring ImplementedsecureJWTauthentication,bcryptpasswordhashing,andprotectedAPIroutes.  IntegratedA*pathfindingandML-basedcongestionpredictionforoptimizedrouteplanning. INTERNSHIP  Role:UIIntern(Angular)  Organization:TechMahindraLtd.,Gurugram  Duration:July15,2025-October15,2025  Responsibilities &Contribution:Developed and improved responsive web interface leveraging Angular framework. Worked closely with the backend team to integrate APIs and ensure seamless application performance.  Technologies:AngularJS,JavaScript,HTML,CSS CERTIFICATIONS C&C++:UniversalInformatics PromptEngineering:InfosysSpringboard AWSCloudPractitioner:AWSSkillBuilder DataAnalyticsJobSimulationusingtablue:Delloite,Forage ACHIEVEMENT  ParticipatedinacollegelevelhackathonHackWave(36-hour),collaboratingonrealworldproblemsolving.  ReceivedahardwarekitfromIITBombayforparticipationinthee-YantraRoboticsCompetition.",
+  "extractedSkills": [
+    "HTML5",
+    "CSS3",
+    "JavaScript",
+    "React.js",
+    "Angular",
+    "Node.js",
+    "Express.js",
+    "MongoDB",
+    "MySql",
+    "C",
+    "C++",
+    "Python",
+    "RESTAPIs",
+    "CRUDOperations",
+    "ResponsiveDesign",
+    "Git",
+    "Postman",
+    "Tablaue",
+    "Figma",
+    "JWT",
+    "Nodemailer",
+    "TailwindCSS"
+  ],
+  "projects": [
+    "AI-Powered Poetry & Story Generator",
+    "Smart Traffic AI"
+  ],
+  "createdAt": {
+    "$date": "2026-08-04T19:27:23.009Z"
+  },
+  "updatedAt": {
+    "$date": "2026-08-04T19:28:25.683Z"
+  },
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "6a723f37f847bbcbb10f9d66"
+  },
+  "userId": {
+    "$oid": "6a72384280c8ae9fb0c5e89f"
+  },
+  "fileName": "saksham resume-2.pdf",
+  "fileUrl": "uploads\\6a72384280c8ae9fb0c5e89f-1785872183705.pdf",
+  "extractedText": "",
+  "extractedSkills": [
+    "React.js",
+    "Node.js",
+    "Express.js",
+    "MongoDB",
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "ES6+",
+    "Git",
+    "GitHub",
+    "Postman",
+    "Vite",
+    "JWT",
+    "Angular",
+    "Image Processing"
+  ],
+  "projects": [
+    "Criminal Record Detection System",
+    "MERN-based Web Applications"
+  ],
+  "createdAt": {
+    "$date": "2026-08-04T19:36:23.837Z"
+  },
+  "updatedAt": {
+    "$date": "2026-08-04T19:36:54.833Z"
+  },
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "6a730f723e6d58b5c5961db4"
+  },
+  "userId": {
+    "$oid": "6a72384280c8ae9fb0c5e89f"
+  },
+  "fileName": "SakshamResume.pdf",
+  "fileUrl": "uploads\\6a72384280c8ae9fb0c5e89f-1785925489694.pdf",
+  "extractedText": "SAKSHAMPRASAD +917737967730|sakshamprasad179@gmail.com|Indore, India  linkedin.com/in/saksham-prasad-b15815254 PROFESSIONALSUMMARY B.TechComputerSciencegraduatewithstrongfoundationsinC,C++,andJavaScript,andhands-onexperienceinfrontend andfull-stackwebdevelopment.Proficientinbuildingresponsive,user-friendlyapplicationsusingReact.jsandtheMERN stack. Passionate about writing clean code, learning modern web technologies, and contributing to real world software solutions. EDUCATION BachelorofTechnology(B.Tech)ComputerScienceEngineering ChameliDeviGroupofInstitutions,Indore(2022-2026) CGPA:7.50 TECHNICALSKILLS Frontend:HTML5,CSS3,JavaScript(ES6+),React.js,Angular Backend:Node.js,Express.js Databases:MongoDB,MySql ProgrammingLanguages:C,C++,Python Tools&Concepts:RESTAPIs,CRUDOperations,ResponsiveDesign,Git(basic),Postman,Tablaue,Figma SoftSkills:Analyticalthinking,problem-solving,communication,teamwork PROJECTS AI-PoweredPoetry&StoryGenerator TechStack:React.js,Node.js,Express.js,MongoDB,HTML,CSS,JavaScript,JWT,Nodemailer,TailwindCSS  Designedanddevelopedafull-stackAI-poweredcontentgenerationplatformforstories,poems,andjokes .  ImplementedsecureJWTauthenticationwithemailverification,OTP-basedpasswordreset,andrefreshtokenrotation. IntegratedtheGroqAIAPItogeneratecreativecontentandbuiltRESTfulAPIsusingtheMVCarchitecture. SmartTrafficAI TechStack:React.js,Node.js,Express.js,MongoDB,GroqAI,JWT,Nodemailer,TailwindCSS Designedanddevelopedafull-stackAI-poweredtrafficmanagementplatformwithreal-timetrafficmonitoring ImplementedsecureJWTauthentication,bcryptpasswordhashing,andprotectedAPIroutes.  IntegratedA*pathfindingandML-basedcongestionpredictionforoptimizedrouteplanning. INTERNSHIP  Role:UIIntern(Angular)  Organization:TechMahindraLtd.,Gurugram  Duration:July15,2025-October15,2025  Responsibilities &Contribution:Developed and improved responsive web interface leveraging Angular framework. Worked closely with the backend team to integrate APIs and ensure seamless application performance.  Technologies:AngularJS,JavaScript,HTML,CSS CERTIFICATIONS C&C++:UniversalInformatics PromptEngineering:InfosysSpringboard AWSCloudPractitioner:AWSSkillBuilder DataAnalyticsJobSimulationusingtablue:Delloite,Forage ACHIEVEMENT  ParticipatedinacollegelevelhackathonHackWave(36-hour),collaboratingonrealworldproblemsolving.  ReceivedahardwarekitfromIITBombayforparticipationinthee-YantraRoboticsCompetition.",
+  "extractedSkills": [
+    "HTML5",
+    "CSS3",
+    "JavaScript",
+    "React.js",
+    "Angular",
+    "Node.js",
+    "Express.js",
+    "MongoDB",
+    "MySql",
+    "C",
+    "C++",
+    "Python",
+    "RESTAPIs",
+    "CRUDOperations",
+    "ResponsiveDesign",
+    "Git",
+    "Postman",
+    "Tablaue",
+    "Figma"
+  ],
+  "projects": [
+    "AI-Powered Poetry & Story Generator",
+    "Smart Traffic AI"
+  ],
+  "createdAt": {
+    "$date": "2026-08-05T10:24:50.679Z"
+  },
+  "updatedAt": {
+    "$date": "2026-08-05T10:25:13.107Z"
+  },
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "6a730fae3e6d58b5c5961dc2"
+  },
+  "userId": {
+    "$oid": "6a72384280c8ae9fb0c5e89f"
+  },
+  "fileName": "SakshamResume.pdf",
+  "fileUrl": "uploads\\6a72384280c8ae9fb0c5e89f-1785925550611.pdf",
+  "extractedText": "SAKSHAMPRASAD +917737967730|sakshamprasad179@gmail.com|Indore, India  linkedin.com/in/saksham-prasad-b15815254 PROFESSIONALSUMMARY B.TechComputerSciencegraduatewithstrongfoundationsinC,C++,andJavaScript,andhands-onexperienceinfrontend andfull-stackwebdevelopment.Proficientinbuildingresponsive,user-friendlyapplicationsusingReact.jsandtheMERN stack. Passionate about writing clean code, learning modern web technologies, and contributing to real world software solutions. EDUCATION BachelorofTechnology(B.Tech)ComputerScienceEngineering ChameliDeviGroupofInstitutions,Indore(2022-2026) CGPA:7.50 TECHNICALSKILLS Frontend:HTML5,CSS3,JavaScript(ES6+),React.js,Angular Backend:Node.js,Express.js Databases:MongoDB,MySql ProgrammingLanguages:C,C++,Python Tools&Concepts:RESTAPIs,CRUDOperations,ResponsiveDesign,Git(basic),Postman,Tablaue,Figma SoftSkills:Analyticalthinking,problem-solving,communication,teamwork PROJECTS AI-PoweredPoetry&StoryGenerator TechStack:React.js,Node.js,Express.js,MongoDB,HTML,CSS,JavaScript,JWT,Nodemailer,TailwindCSS  Designedanddevelopedafull-stackAI-poweredcontentgenerationplatformforstories,poems,andjokes .  ImplementedsecureJWTauthenticationwithemailverification,OTP-basedpasswordreset,andrefreshtokenrotation. IntegratedtheGroqAIAPItogeneratecreativecontentandbuiltRESTfulAPIsusingtheMVCarchitecture. SmartTrafficAI TechStack:React.js,Node.js,Express.js,MongoDB,GroqAI,JWT,Nodemailer,TailwindCSS Designedanddevelopedafull-stackAI-poweredtrafficmanagementplatformwithreal-timetrafficmonitoring ImplementedsecureJWTauthentication,bcryptpasswordhashing,andprotectedAPIroutes.  IntegratedA*pathfindingandML-basedcongestionpredictionforoptimizedrouteplanning. INTERNSHIP  Role:UIIntern(Angular)  Organization:TechMahindraLtd.,Gurugram  Duration:July15,2025-October15,2025  Responsibilities &Contribution:Developed and improved responsive web interface leveraging Angular framework. Worked closely with the backend team to integrate APIs and ensure seamless application performance.  Technologies:AngularJS,JavaScript,HTML,CSS CERTIFICATIONS C&C++:UniversalInformatics PromptEngineering:InfosysSpringboard AWSCloudPractitioner:AWSSkillBuilder DataAnalyticsJobSimulationusingtablue:Delloite,Forage ACHIEVEMENT  ParticipatedinacollegelevelhackathonHackWave(36-hour),collaboratingonrealworldproblemsolving.  ReceivedahardwarekitfromIITBombayforparticipationinthee-YantraRoboticsCompetition.",
+  "extractedSkills": [
+    "HTML5",
+    "CSS3",
+    "JavaScript",
+    "React.js",
+    "Angular",
+    "Node.js",
+    "Express.js",
+    "MongoDB",
+    "MySql",
+    "C",
+    "C++",
+    "Python",
+    "RESTAPIs",
+    "CRUDOperations",
+    "ResponsiveDesign",
+    "Git",
+    "Postman",
+    "Tablaue",
+    "Figma"
+  ],
+  "projects": [
+    "AI-Powered Poetry & Story Generator",
+    "Smart Traffic AI"
+  ],
+  "createdAt": {
+    "$date": "2026-08-05T10:25:50.936Z"
+  },
+  "updatedAt": {
+    "$date": "2026-08-05T10:26:04.767Z"
+  },
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "6a7311b8161576f5e2671ff4"
+  },
+  "userId": {
+    "$oid": "6a72384280c8ae9fb0c5e89f"
+  },
+  "fileName": "SakshamResume.pdf",
+  "fileUrl": "uploads\\6a72384280c8ae9fb0c5e89f-1785926071619.pdf",
+  "extractedText": "SAKSHAMPRASAD\n+917737967730|sakshamprasad179@gmail.com|Indore, India\n⋄\nlinkedin.com/in/saksham-prasad-b15815254\nPROFESSIONALSUMMARY\nB.TechComputerSciencegraduatewithstrongfoundationsinC,C++,andJavaScript,andhands-onexperienceinfrontend\nandfull-stackwebdevelopment.Proficientinbuildingresponsive,user-friendlyapplicationsusingReact.jsandtheMERN\nstack. Passionate about writing clean code, learning modern web technologies, and contributing to real world software\nsolutions.\nEDUCATION\nBachelorofTechnology(B.Tech)–ComputerScienceEngineering\nChameliDeviGroupofInstitutions,Indore(2022-2026)\nCGPA:7.50\nTECHNICALSKILLS\nFrontend:HTML5,CSS3,JavaScript(ES6+),React.js,Angular\nBackend:Node.js,Express.js\nDatabases:MongoDB,MySql\nProgrammingLanguages:C,C++,Python\nTools&Concepts:RESTAPIs,CRUDOperations,ResponsiveDesign,Git(basic),Postman,Tablaue,Figma\nSoftSkills:Analyticalthinking,problem-solving,communication,teamwork\nPROJECTS\nAI-PoweredPoetry&StoryGenerator\nTechStack:React.js,Node.js,Express.js,MongoDB,HTML,CSS,JavaScript,JWT,Nodemailer,TailwindCSS\n\nDesignedanddevelopedafull-stackAI-poweredcontentgenerationplatformforstories,poems,andjokes\n.\n\nImplementedsecureJWTauthenticationwithemailverification,OTP-basedpasswordreset,andrefreshtokenrotation.\nIntegratedtheGroqAIAPItogeneratecreativecontentandbuiltRESTfulAPIsusingtheMVCarchitecture.\nSmartTrafficAI\nTechStack:React.js,Node.js,Express.js,MongoDB,GroqAI,JWT,Nodemailer,TailwindCSS\nDesignedanddevelopedafull-stackAI-poweredtrafficmanagementplatformwithreal-timetrafficmonitoring\nImplementedsecureJWTauthentication,bcryptpasswordhashing,andprotectedAPIroutes.\n\nIntegratedA*pathfindingandML-basedcongestionpredictionforoptimizedrouteplanning.\nINTERNSHIP\n\nRole:UIIntern(Angular)\n\nOrganization:TechMahindraLtd.,Gurugram\n\nDuration:July15,2025-October15,2025\n\nResponsibilities &Contribution:Developed and improved responsive web interface leveraging Angular framework.\nWorked closely with the backend team to integrate APIs and ensure seamless application performance.\n\nTechnologies:AngularJS,JavaScript,HTML,CSS\nCERTIFICATIONS\nC&C++:UniversalInformatics\nPromptEngineering:InfosysSpringboard\nAWSCloudPractitioner:AWSSkillBuilder\nDataAnalyticsJobSimulationusingtablue:Delloite,Forage\nACHIEVEMENT\n\nParticipatedinacollegelevelhackathonHackWave(36-hour),collaboratingonrealworldproblemsolving.\n\nReceivedahardwarekitfromIITBombayforparticipationinthee-YantraRoboticsCompetition.",
+  "extractedSkills": [
+    "HTML5",
+    "CSS3",
+    "JavaScript",
+    "ES6+",
+    "React.js",
+    "Angular",
+    "Node.js",
+    "Express.js",
+    "MongoDB",
+    "MySql",
+    "C",
+    "C++",
+    "Python",
+    "RESTAPIs",
+    "CRUDOperations",
+    "ResponsiveDesign",
+    "Git",
+    "Postman",
+    "Tablaue",
+    "Figma",
+    "JWT",
+    "Nodemailer",
+    "TailwindCSS",
+    "GroqAI",
+    "A*pathfinding",
+    "ML-basedcongestionprediction",
+    "bcrypt",
+    "AngularJS"
+  ],
+  "projects": [
+    "AI-PoweredPoetry&StoryGenerator",
+    "SmartTrafficAI"
+  ],
+  "createdAt": {
+    "$date": "2026-08-05T10:34:32.518Z"
+  },
+  "updatedAt": {
+    "$date": "2026-08-05T10:34:48.900Z"
+  },
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "6a731257161576f5e2672002"
+  },
+  "userId": {
+    "$oid": "6a72384280c8ae9fb0c5e89f"
+  },
+  "fileName": "SakshamResume.pdf",
+  "fileUrl": "uploads\\6a72384280c8ae9fb0c5e89f-1785926230883.pdf",
+  "extractedText": "SAKSHAMPRASAD\n+917737967730|sakshamprasad179@gmail.com|Indore, India\n⋄\nlinkedin.com/in/saksham-prasad-b15815254\nPROFESSIONALSUMMARY\nB.TechComputerSciencegraduatewithstrongfoundationsinC,C++,andJavaScript,andhands-onexperienceinfrontend\nandfull-stackwebdevelopment.Proficientinbuildingresponsive,user-friendlyapplicationsusingReact.jsandtheMERN\nstack. Passionate about writing clean code, learning modern web technologies, and contributing to real world software\nsolutions.\nEDUCATION\nBachelorofTechnology(B.Tech)–ComputerScienceEngineering\nChameliDeviGroupofInstitutions,Indore(2022-2026)\nCGPA:7.50\nTECHNICALSKILLS\nFrontend:HTML5,CSS3,JavaScript(ES6+),React.js,Angular\nBackend:Node.js,Express.js\nDatabases:MongoDB,MySql\nProgrammingLanguages:C,C++,Python\nTools&Concepts:RESTAPIs,CRUDOperations,ResponsiveDesign,Git(basic),Postman,Tablaue,Figma\nSoftSkills:Analyticalthinking,problem-solving,communication,teamwork\nPROJECTS\nAI-PoweredPoetry&StoryGenerator\nTechStack:React.js,Node.js,Express.js,MongoDB,HTML,CSS,JavaScript,JWT,Nodemailer,TailwindCSS\n\nDesignedanddevelopedafull-stackAI-poweredcontentgenerationplatformforstories,poems,andjokes\n.\n\nImplementedsecureJWTauthenticationwithemailverification,OTP-basedpasswordreset,andrefreshtokenrotation.\nIntegratedtheGroqAIAPItogeneratecreativecontentandbuiltRESTfulAPIsusingtheMVCarchitecture.\nSmartTrafficAI\nTechStack:React.js,Node.js,Express.js,MongoDB,GroqAI,JWT,Nodemailer,TailwindCSS\nDesignedanddevelopedafull-stackAI-poweredtrafficmanagementplatformwithreal-timetrafficmonitoring\nImplementedsecureJWTauthentication,bcryptpasswordhashing,andprotectedAPIroutes.\n\nIntegratedA*pathfindingandML-basedcongestionpredictionforoptimizedrouteplanning.\nINTERNSHIP\n\nRole:UIIntern(Angular)\n\nOrganization:TechMahindraLtd.,Gurugram\n\nDuration:July15,2025-October15,2025\n\nResponsibilities &Contribution:Developed and improved responsive web interface leveraging Angular framework.\nWorked closely with the backend team to integrate APIs and ensure seamless application performance.\n\nTechnologies:AngularJS,JavaScript,HTML,CSS\nCERTIFICATIONS\nC&C++:UniversalInformatics\nPromptEngineering:InfosysSpringboard\nAWSCloudPractitioner:AWSSkillBuilder\nDataAnalyticsJobSimulationusingtablue:Delloite,Forage\nACHIEVEMENT\n\nParticipatedinacollegelevelhackathonHackWave(36-hour),collaboratingonrealworldproblemsolving.\n\nReceivedahardwarekitfromIITBombayforparticipationinthee-YantraRoboticsCompetition.",
+  "extractedSkills": [],
+  "projects": [],
+  "createdAt": {
+    "$date": "2026-08-05T10:37:11.241Z"
+  },
+  "updatedAt": {
+    "$date": "2026-08-05T10:37:11.241Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a731262161576f5e2672005"
+  },
+  "userId": {
+    "$oid": "6a72384280c8ae9fb0c5e89f"
+  },
+  "fileName": "C129150-2068.pdf",
+  "fileUrl": "uploads\\6a72384280c8ae9fb0c5e89f-1785926242186.pdf",
+  "extractedText": "Tech Mahindra Limited \nInfo city, Hi-tech City Layout, \nMadhapur, Hyderabad 500081, India. \nTel: +91 40 3063 6363 \nFax: +91 40 2311 7011 \ntechmahindra.com \nConnect@techmahindra.com \n \nRegistered Office: \nGateway Building, Apollo Bunder \nMumbai 400 001, India \nCIN L64200MH1986PLCO41370 \n \n \nDate: 5-Nov-2025 \n \n \nSubject: Internship Completion Certificate \n \nThis is to certify that Saksham Prasad (ID: C129150) has completed internship program with Tech \nMahindra Limited from 15-Jul-2025 to 15-Oct-2025 and was assigned to work on the Project titled \nAidenLens: Document Management User Interface under the guidance of Kanya Kasimani J. \n \n \n \n For Tech Mahindra Ltd. \n \nVinay Agrawal \nHead, Business HR",
+  "extractedSkills": [],
+  "projects": [],
+  "createdAt": {
+    "$date": "2026-08-05T10:37:22.304Z"
+  },
+  "updatedAt": {
+    "$date": "2026-08-05T10:37:22.304Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a73126f161576f5e2672008"
+  },
+  "userId": {
+    "$oid": "6a72384280c8ae9fb0c5e89f"
+  },
+  "fileName": "C129150-2068.pdf",
+  "fileUrl": "uploads\\6a72384280c8ae9fb0c5e89f-1785926255016.pdf",
+  "extractedText": "Tech Mahindra Limited \nInfo city, Hi-tech City Layout, \nMadhapur, Hyderabad 500081, India. \nTel: +91 40 3063 6363 \nFax: +91 40 2311 7011 \ntechmahindra.com \nConnect@techmahindra.com \n \nRegistered Office: \nGateway Building, Apollo Bunder \nMumbai 400 001, India \nCIN L64200MH1986PLCO41370 \n \n \nDate: 5-Nov-2025 \n \n \nSubject: Internship Completion Certificate \n \nThis is to certify that Saksham Prasad (ID: C129150) has completed internship program with Tech \nMahindra Limited from 15-Jul-2025 to 15-Oct-2025 and was assigned to work on the Project titled \nAidenLens: Document Management User Interface under the guidance of Kanya Kasimani J. \n \n \n \n For Tech Mahindra Ltd. \n \nVinay Agrawal \nHead, Business HR",
+  "extractedSkills": [],
+  "projects": [
+    "AidenLens: Document Management User Interface"
+  ],
+  "createdAt": {
+    "$date": "2026-08-05T10:37:35.208Z"
+  },
+  "updatedAt": {
+    "$date": "2026-08-05T10:37:52.175Z"
+  },
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "6a73133b161576f5e267201e"
+  },
+  "userId": {
+    "$oid": "6a72384280c8ae9fb0c5e89f"
+  },
+  "fileName": "SakshamResume.pdf",
+  "fileUrl": "uploads\\6a72384280c8ae9fb0c5e89f-1785926458939.pdf",
+  "extractedText": "SAKSHAMPRASAD\n+917737967730|sakshamprasad179@gmail.com|Indore, India\n⋄\nlinkedin.com/in/saksham-prasad-b15815254\nPROFESSIONALSUMMARY\nB.TechComputerSciencegraduatewithstrongfoundationsinC,C++,andJavaScript,andhands-onexperienceinfrontend\nandfull-stackwebdevelopment.Proficientinbuildingresponsive,user-friendlyapplicationsusingReact.jsandtheMERN\nstack. Passionate about writing clean code, learning modern web technologies, and contributing to real world software\nsolutions.\nEDUCATION\nBachelorofTechnology(B.Tech)–ComputerScienceEngineering\nChameliDeviGroupofInstitutions,Indore(2022-2026)\nCGPA:7.50\nTECHNICALSKILLS\nFrontend:HTML5,CSS3,JavaScript(ES6+),React.js,Angular\nBackend:Node.js,Express.js\nDatabases:MongoDB,MySql\nProgrammingLanguages:C,C++,Python\nTools&Concepts:RESTAPIs,CRUDOperations,ResponsiveDesign,Git(basic),Postman,Tablaue,Figma\nSoftSkills:Analyticalthinking,problem-solving,communication,teamwork\nPROJECTS\nAI-PoweredPoetry&StoryGenerator\nTechStack:React.js,Node.js,Express.js,MongoDB,HTML,CSS,JavaScript,JWT,Nodemailer,TailwindCSS\n\nDesignedanddevelopedafull-stackAI-poweredcontentgenerationplatformforstories,poems,andjokes\n.\n\nImplementedsecureJWTauthenticationwithemailverification,OTP-basedpasswordreset,andrefreshtokenrotation.\nIntegratedtheGroqAIAPItogeneratecreativecontentandbuiltRESTfulAPIsusingtheMVCarchitecture.\nSmartTrafficAI\nTechStack:React.js,Node.js,Express.js,MongoDB,GroqAI,JWT,Nodemailer,TailwindCSS\nDesignedanddevelopedafull-stackAI-poweredtrafficmanagementplatformwithreal-timetrafficmonitoring\nImplementedsecureJWTauthentication,bcryptpasswordhashing,andprotectedAPIroutes.\n\nIntegratedA*pathfindingandML-basedcongestionpredictionforoptimizedrouteplanning.\nINTERNSHIP\n\nRole:UIIntern(Angular)\n\nOrganization:TechMahindraLtd.,Gurugram\n\nDuration:July15,2025-October15,2025\n\nResponsibilities &Contribution:Developed and improved responsive web interface leveraging Angular framework.\nWorked closely with the backend team to integrate APIs and ensure seamless application performance.\n\nTechnologies:AngularJS,JavaScript,HTML,CSS\nCERTIFICATIONS\nC&C++:UniversalInformatics\nPromptEngineering:InfosysSpringboard\nAWSCloudPractitioner:AWSSkillBuilder\nDataAnalyticsJobSimulationusingtablue:Delloite,Forage\nACHIEVEMENT\n\nParticipatedinacollegelevelhackathonHackWave(36-hour),collaboratingonrealworldproblemsolving.\n\nReceivedahardwarekitfromIITBombayforparticipationinthee-YantraRoboticsCompetition.",
+  "extractedSkills": [
+    "HTML5",
+    "CSS3",
+    "JavaScript",
+    "React.js",
+    "Angular",
+    "Node.js",
+    "Express.js",
+    "MongoDB",
+    "MySql",
+    "C",
+    "C++",
+    "Python",
+    "RESTAPIs",
+    "CRUDOperations",
+    "ResponsiveDesign",
+    "Git",
+    "Postman",
+    "Tablaue",
+    "Figma",
+    "JWT",
+    "Nodemailer",
+    "TailwindCSS",
+    "GroqAI",
+    "A*pathfinding",
+    "ML-basedcongestionprediction",
+    "bcrypt",
+    "AngularJS"
+  ],
+  "projects": [
+    "AI-PoweredPoetry&StoryGenerator",
+    "SmartTrafficAI"
+  ],
+  "createdAt": {
+    "$date": "2026-08-05T10:40:59.244Z"
+  },
+  "updatedAt": {
+    "$date": "2026-08-05T10:41:10.020Z"
+  },
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "6a731568bd1037eb4fee589c"
+  },
+  "userId": {
+    "$oid": "6a72384280c8ae9fb0c5e89f"
+  },
+  "fileName": "SakshamResume.pdf",
+  "fileUrl": "uploads\\6a72384280c8ae9fb0c5e89f-1785927015223.pdf",
+  "extractedText": "SAKSHAMPRASAD\n+917737967730|sakshamprasad179@gmail.com|Indore, India\n⋄\nlinkedin.com/in/saksham-prasad-b15815254\nPROFESSIONALSUMMARY\nB.TechComputerSciencegraduatewithstrongfoundationsinC,C++,andJavaScript,andhands-onexperienceinfrontend\nandfull-stackwebdevelopment.Proficientinbuildingresponsive,user-friendlyapplicationsusingReact.jsandtheMERN\nstack. Passionate about writing clean code, learning modern web technologies, and contributing to real world software\nsolutions.\nEDUCATION\nBachelorofTechnology(B.Tech)–ComputerScienceEngineering\nChameliDeviGroupofInstitutions,Indore(2022-2026)\nCGPA:7.50\nTECHNICALSKILLS\nFrontend:HTML5,CSS3,JavaScript(ES6+),React.js,Angular\nBackend:Node.js,Express.js\nDatabases:MongoDB,MySql\nProgrammingLanguages:C,C++,Python\nTools&Concepts:RESTAPIs,CRUDOperations,ResponsiveDesign,Git(basic),Postman,Tablaue,Figma\nSoftSkills:Analyticalthinking,problem-solving,communication,teamwork\nPROJECTS\nAI-PoweredPoetry&StoryGenerator\nTechStack:React.js,Node.js,Express.js,MongoDB,HTML,CSS,JavaScript,JWT,Nodemailer,TailwindCSS\n\nDesignedanddevelopedafull-stackAI-poweredcontentgenerationplatformforstories,poems,andjokes\n.\n\nImplementedsecureJWTauthenticationwithemailverification,OTP-basedpasswordreset,andrefreshtokenrotation.\nIntegratedtheGroqAIAPItogeneratecreativecontentandbuiltRESTfulAPIsusingtheMVCarchitecture.\nSmartTrafficAI\nTechStack:React.js,Node.js,Express.js,MongoDB,GroqAI,JWT,Nodemailer,TailwindCSS\nDesignedanddevelopedafull-stackAI-poweredtrafficmanagementplatformwithreal-timetrafficmonitoring\nImplementedsecureJWTauthentication,bcryptpasswordhashing,andprotectedAPIroutes.\n\nIntegratedA*pathfindingandML-basedcongestionpredictionforoptimizedrouteplanning.\nINTERNSHIP\n\nRole:UIIntern(Angular)\n\nOrganization:TechMahindraLtd.,Gurugram\n\nDuration:July15,2025-October15,2025\n\nResponsibilities &Contribution:Developed and improved responsive web interface leveraging Angular framework.\nWorked closely with the backend team to integrate APIs and ensure seamless application performance.\n\nTechnologies:AngularJS,JavaScript,HTML,CSS\nCERTIFICATIONS\nC&C++:UniversalInformatics\nPromptEngineering:InfosysSpringboard\nAWSCloudPractitioner:AWSSkillBuilder\nDataAnalyticsJobSimulationusingtablue:Delloite,Forage\nACHIEVEMENT\n\nParticipatedinacollegelevelhackathonHackWave(36-hour),collaboratingonrealworldproblemsolving.\n\nReceivedahardwarekitfromIITBombayforparticipationinthee-YantraRoboticsCompetition.",
+  "extractedSkills": [
+    "C",
+    "C++",
+    "JavaScript",
+    "React.js",
+    "Angular",
+    "Node.js",
+    "Express.js",
+    "MongoDB",
+    "MySql",
+    "Python",
+    "HTML5",
+    "CSS3",
+    "RESTAPIs",
+    "CRUDOperations",
+    "ResponsiveDesign",
+    "Git",
+    "Postman",
+    "Figma",
+    "TailwindCSS",
+    "JWT",
+    "Nodemailer"
+  ],
+  "projects": [
+    "AI-Powered Poetry & Story Generator",
+    "Smart Traffic AI"
+  ],
+  "createdAt": {
+    "$date": "2026-08-05T10:50:16.106Z"
+  },
+  "updatedAt": {
+    "$date": "2026-08-05T10:50:55.349Z"
+  },
+  "__v": 2
+},
+{
+  "_id": {
+    "$oid": "6a731601efea03625bfc99a3"
+  },
+  "userId": {
+    "$oid": "6a72384280c8ae9fb0c5e89f"
+  },
+  "fileName": "SakshamResume.pdf",
+  "fileUrl": "uploads\\6a72384280c8ae9fb0c5e89f-1785927168812.pdf",
+  "extractedText": "SAKSHAMPRASAD\n+917737967730|sakshamprasad179@gmail.com|Indore, India\n⋄\nlinkedin.com/in/saksham-prasad-b15815254\nPROFESSIONALSUMMARY\nB.TechComputerSciencegraduatewithstrongfoundationsinC,C++,andJavaScript,andhands-onexperienceinfrontend\nandfull-stackwebdevelopment.Proficientinbuildingresponsive,user-friendlyapplicationsusingReact.jsandtheMERN\nstack. Passionate about writing clean code, learning modern web technologies, and contributing to real world software\nsolutions.\nEDUCATION\nBachelorofTechnology(B.Tech)–ComputerScienceEngineering\nChameliDeviGroupofInstitutions,Indore(2022-2026)\nCGPA:7.50\nTECHNICALSKILLS\nFrontend:HTML5,CSS3,JavaScript(ES6+),React.js,Angular\nBackend:Node.js,Express.js\nDatabases:MongoDB,MySql\nProgrammingLanguages:C,C++,Python\nTools&Concepts:RESTAPIs,CRUDOperations,ResponsiveDesign,Git(basic),Postman,Tablaue,Figma\nSoftSkills:Analyticalthinking,problem-solving,communication,teamwork\nPROJECTS\nAI-PoweredPoetry&StoryGenerator\nTechStack:React.js,Node.js,Express.js,MongoDB,HTML,CSS,JavaScript,JWT,Nodemailer,TailwindCSS\n\nDesignedanddevelopedafull-stackAI-poweredcontentgenerationplatformforstories,poems,andjokes\n.\n\nImplementedsecureJWTauthenticationwithemailverification,OTP-basedpasswordreset,andrefreshtokenrotation.\nIntegratedtheGroqAIAPItogeneratecreativecontentandbuiltRESTfulAPIsusingtheMVCarchitecture.\nSmartTrafficAI\nTechStack:React.js,Node.js,Express.js,MongoDB,GroqAI,JWT,Nodemailer,TailwindCSS\nDesignedanddevelopedafull-stackAI-poweredtrafficmanagementplatformwithreal-timetrafficmonitoring\nImplementedsecureJWTauthentication,bcryptpasswordhashing,andprotectedAPIroutes.\n\nIntegratedA*pathfindingandML-basedcongestionpredictionforoptimizedrouteplanning.\nINTERNSHIP\n\nRole:UIIntern(Angular)\n\nOrganization:TechMahindraLtd.,Gurugram\n\nDuration:July15,2025-October15,2025\n\nResponsibilities &Contribution:Developed and improved responsive web interface leveraging Angular framework.\nWorked closely with the backend team to integrate APIs and ensure seamless application performance.\n\nTechnologies:AngularJS,JavaScript,HTML,CSS\nCERTIFICATIONS\nC&C++:UniversalInformatics\nPromptEngineering:InfosysSpringboard\nAWSCloudPractitioner:AWSSkillBuilder\nDataAnalyticsJobSimulationusingtablue:Delloite,Forage\nACHIEVEMENT\n\nParticipatedinacollegelevelhackathonHackWave(36-hour),collaboratingonrealworldproblemsolving.\n\nReceivedahardwarekitfromIITBombayforparticipationinthee-YantraRoboticsCompetition.",
+  "extractedSkills": [
+    "C",
+    "C++",
+    "JavaScript",
+    "React.js",
+    "Angular",
+    "Node.js",
+    "Express.js",
+    "MongoDB",
+    "MySql",
+    "Python",
+    "HTML5",
+    "CSS3",
+    "REST APIs",
+    "CRUD Operations",
+    "Git",
+    "Postman",
+    "TailwindCSS",
+    "JWT",
+    "Nodemailer",
+    "Figma"
+  ],
+  "projects": [
+    "AI-Powered Poetry & Story Generator",
+    "Smart Traffic AI"
+  ],
+  "createdAt": {
+    "$date": "2026-08-05T10:52:49.743Z"
+  },
+  "updatedAt": {
+    "$date": "2026-08-05T10:53:38.101Z"
+  },
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "6a731660efea03625bfc99b9"
+  },
+  "userId": {
+    "$oid": "6a72384280c8ae9fb0c5e89f"
+  },
+  "fileName": "SakshamResume.pdf",
+  "fileUrl": "uploads\\6a72384280c8ae9fb0c5e89f-1785927264087.pdf",
+  "extractedText": "SAKSHAMPRASAD\n+917737967730|sakshamprasad179@gmail.com|Indore, India\n⋄\nlinkedin.com/in/saksham-prasad-b15815254\nPROFESSIONALSUMMARY\nB.TechComputerSciencegraduatewithstrongfoundationsinC,C++,andJavaScript,andhands-onexperienceinfrontend\nandfull-stackwebdevelopment.Proficientinbuildingresponsive,user-friendlyapplicationsusingReact.jsandtheMERN\nstack. Passionate about writing clean code, learning modern web technologies, and contributing to real world software\nsolutions.\nEDUCATION\nBachelorofTechnology(B.Tech)–ComputerScienceEngineering\nChameliDeviGroupofInstitutions,Indore(2022-2026)\nCGPA:7.50\nTECHNICALSKILLS\nFrontend:HTML5,CSS3,JavaScript(ES6+),React.js,Angular\nBackend:Node.js,Express.js\nDatabases:MongoDB,MySql\nProgrammingLanguages:C,C++,Python\nTools&Concepts:RESTAPIs,CRUDOperations,ResponsiveDesign,Git(basic),Postman,Tablaue,Figma\nSoftSkills:Analyticalthinking,problem-solving,communication,teamwork\nPROJECTS\nAI-PoweredPoetry&StoryGenerator\nTechStack:React.js,Node.js,Express.js,MongoDB,HTML,CSS,JavaScript,JWT,Nodemailer,TailwindCSS\n\nDesignedanddevelopedafull-stackAI-poweredcontentgenerationplatformforstories,poems,andjokes\n.\n\nImplementedsecureJWTauthenticationwithemailverification,OTP-basedpasswordreset,andrefreshtokenrotation.\nIntegratedtheGroqAIAPItogeneratecreativecontentandbuiltRESTfulAPIsusingtheMVCarchitecture.\nSmartTrafficAI\nTechStack:React.js,Node.js,Express.js,MongoDB,GroqAI,JWT,Nodemailer,TailwindCSS\nDesignedanddevelopedafull-stackAI-poweredtrafficmanagementplatformwithreal-timetrafficmonitoring\nImplementedsecureJWTauthentication,bcryptpasswordhashing,andprotectedAPIroutes.\n\nIntegratedA*pathfindingandML-basedcongestionpredictionforoptimizedrouteplanning.\nINTERNSHIP\n\nRole:UIIntern(Angular)\n\nOrganization:TechMahindraLtd.,Gurugram\n\nDuration:July15,2025-October15,2025\n\nResponsibilities &Contribution:Developed and improved responsive web interface leveraging Angular framework.\nWorked closely with the backend team to integrate APIs and ensure seamless application performance.\n\nTechnologies:AngularJS,JavaScript,HTML,CSS\nCERTIFICATIONS\nC&C++:UniversalInformatics\nPromptEngineering:InfosysSpringboard\nAWSCloudPractitioner:AWSSkillBuilder\nDataAnalyticsJobSimulationusingtablue:Delloite,Forage\nACHIEVEMENT\n\nParticipatedinacollegelevelhackathonHackWave(36-hour),collaboratingonrealworldproblemsolving.\n\nReceivedahardwarekitfromIITBombayforparticipationinthee-YantraRoboticsCompetition.",
+  "extractedSkills": [
+    "C",
+    "C++",
+    "JavaScript",
+    "React.js",
+    "Node.js",
+    "Express.js",
+    "MongoDB",
+    "MySql",
+    "Python",
+    "HTML5",
+    "CSS3",
+    "Angular",
+    "REST APIs",
+    "CRUD Operations",
+    "Responsive Design",
+    "Git",
+    "Postman",
+    "Tablaue",
+    "Figma",
+    "JWT",
+    "Nodemailer",
+    "TailwindCSS",
+    "GroqAI",
+    "A* pathfinding",
+    "ML-based congestion prediction",
+    "bcrypt password hashing"
+  ],
+  "projects": [
+    "AI-Powered Poetry & Story Generator",
+    "Smart Traffic AI"
+  ],
+  "createdAt": {
+    "$date": "2026-08-05T10:54:24.409Z"
+  },
+  "updatedAt": {
+    "$date": "2026-08-05T10:54:47.494Z"
+  },
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "6a7316f3efea03625bfc99cd"
+  },
+  "userId": {
+    "$oid": "6a72384280c8ae9fb0c5e89f"
+  },
+  "fileName": "SakshamResume.pdf",
+  "fileUrl": "uploads\\6a72384280c8ae9fb0c5e89f-1785927410948.pdf",
+  "extractedText": "SAKSHAMPRASAD\n+917737967730|sakshamprasad179@gmail.com|Indore, India\n⋄\nlinkedin.com/in/saksham-prasad-b15815254\nPROFESSIONALSUMMARY\nB.TechComputerSciencegraduatewithstrongfoundationsinC,C++,andJavaScript,andhands-onexperienceinfrontend\nandfull-stackwebdevelopment.Proficientinbuildingresponsive,user-friendlyapplicationsusingReact.jsandtheMERN\nstack. Passionate about writing clean code, learning modern web technologies, and contributing to real world software\nsolutions.\nEDUCATION\nBachelorofTechnology(B.Tech)–ComputerScienceEngineering\nChameliDeviGroupofInstitutions,Indore(2022-2026)\nCGPA:7.50\nTECHNICALSKILLS\nFrontend:HTML5,CSS3,JavaScript(ES6+),React.js,Angular\nBackend:Node.js,Express.js\nDatabases:MongoDB,MySql\nProgrammingLanguages:C,C++,Python\nTools&Concepts:RESTAPIs,CRUDOperations,ResponsiveDesign,Git(basic),Postman,Tablaue,Figma\nSoftSkills:Analyticalthinking,problem-solving,communication,teamwork\nPROJECTS\nAI-PoweredPoetry&StoryGenerator\nTechStack:React.js,Node.js,Express.js,MongoDB,HTML,CSS,JavaScript,JWT,Nodemailer,TailwindCSS\n\nDesignedanddevelopedafull-stackAI-poweredcontentgenerationplatformforstories,poems,andjokes\n.\n\nImplementedsecureJWTauthenticationwithemailverification,OTP-basedpasswordreset,andrefreshtokenrotation.\nIntegratedtheGroqAIAPItogeneratecreativecontentandbuiltRESTfulAPIsusingtheMVCarchitecture.\nSmartTrafficAI\nTechStack:React.js,Node.js,Express.js,MongoDB,GroqAI,JWT,Nodemailer,TailwindCSS\nDesignedanddevelopedafull-stackAI-poweredtrafficmanagementplatformwithreal-timetrafficmonitoring\nImplementedsecureJWTauthentication,bcryptpasswordhashing,andprotectedAPIroutes.\n\nIntegratedA*pathfindingandML-basedcongestionpredictionforoptimizedrouteplanning.\nINTERNSHIP\n\nRole:UIIntern(Angular)\n\nOrganization:TechMahindraLtd.,Gurugram\n\nDuration:July15,2025-October15,2025\n\nResponsibilities &Contribution:Developed and improved responsive web interface leveraging Angular framework.\nWorked closely with the backend team to integrate APIs and ensure seamless application performance.\n\nTechnologies:AngularJS,JavaScript,HTML,CSS\nCERTIFICATIONS\nC&C++:UniversalInformatics\nPromptEngineering:InfosysSpringboard\nAWSCloudPractitioner:AWSSkillBuilder\nDataAnalyticsJobSimulationusingtablue:Delloite,Forage\nACHIEVEMENT\n\nParticipatedinacollegelevelhackathonHackWave(36-hour),collaboratingonrealworldproblemsolving.\n\nReceivedahardwarekitfromIITBombayforparticipationinthee-YantraRoboticsCompetition.",
+  "extractedSkills": [],
+  "projects": [],
+  "createdAt": {
+    "$date": "2026-08-05T10:56:51.326Z"
+  },
+  "updatedAt": {
+    "$date": "2026-08-05T10:56:51.326Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a7318b1f130420ce5b0fbf3"
+  },
+  "userId": {
+    "$oid": "6a72384280c8ae9fb0c5e89f"
+  },
+  "fileName": "SakshamResume.pdf",
+  "fileUrl": "uploads\\6a72384280c8ae9fb0c5e89f-1785927857542.pdf",
+  "extractedText": "SAKSHAMPRASAD\n+917737967730|sakshamprasad179@gmail.com|Indore, India\n⋄\nlinkedin.com/in/saksham-prasad-b15815254\nPROFESSIONALSUMMARY\nB.TechComputerSciencegraduatewithstrongfoundationsinC,C++,andJavaScript,andhands-onexperienceinfrontend\nandfull-stackwebdevelopment.Proficientinbuildingresponsive,user-friendlyapplicationsusingReact.jsandtheMERN\nstack. Passionate about writing clean code, learning modern web technologies, and contributing to real world software\nsolutions.\nEDUCATION\nBachelorofTechnology(B.Tech)–ComputerScienceEngineering\nChameliDeviGroupofInstitutions,Indore(2022-2026)\nCGPA:7.50\nTECHNICALSKILLS\nFrontend:HTML5,CSS3,JavaScript(ES6+),React.js,Angular\nBackend:Node.js,Express.js\nDatabases:MongoDB,MySql\nProgrammingLanguages:C,C++,Python\nTools&Concepts:RESTAPIs,CRUDOperations,ResponsiveDesign,Git(basic),Postman,Tablaue,Figma\nSoftSkills:Analyticalthinking,problem-solving,communication,teamwork\nPROJECTS\nAI-PoweredPoetry&StoryGenerator\nTechStack:React.js,Node.js,Express.js,MongoDB,HTML,CSS,JavaScript,JWT,Nodemailer,TailwindCSS\n\nDesignedanddevelopedafull-stackAI-poweredcontentgenerationplatformforstories,poems,andjokes\n.\n\nImplementedsecureJWTauthenticationwithemailverification,OTP-basedpasswordreset,andrefreshtokenrotation.\nIntegratedtheGroqAIAPItogeneratecreativecontentandbuiltRESTfulAPIsusingtheMVCarchitecture.\nSmartTrafficAI\nTechStack:React.js,Node.js,Express.js,MongoDB,GroqAI,JWT,Nodemailer,TailwindCSS\nDesignedanddevelopedafull-stackAI-poweredtrafficmanagementplatformwithreal-timetrafficmonitoring\nImplementedsecureJWTauthentication,bcryptpasswordhashing,andprotectedAPIroutes.\n\nIntegratedA*pathfindingandML-basedcongestionpredictionforoptimizedrouteplanning.\nINTERNSHIP\n\nRole:UIIntern(Angular)\n\nOrganization:TechMahindraLtd.,Gurugram\n\nDuration:July15,2025-October15,2025\n\nResponsibilities &Contribution:Developed and improved responsive web interface leveraging Angular framework.\nWorked closely with the backend team to integrate APIs and ensure seamless application performance.\n\nTechnologies:AngularJS,JavaScript,HTML,CSS\nCERTIFICATIONS\nC&C++:UniversalInformatics\nPromptEngineering:InfosysSpringboard\nAWSCloudPractitioner:AWSSkillBuilder\nDataAnalyticsJobSimulationusingtablue:Delloite,Forage\nACHIEVEMENT\n\nParticipatedinacollegelevelhackathonHackWave(36-hour),collaboratingonrealworldproblemsolving.\n\nReceivedahardwarekitfromIITBombayforparticipationinthee-YantraRoboticsCompetition.",
+  "extractedSkills": [
+    "C",
+    "C++",
+    "JavaScript",
+    "React.js",
+    "Node.js",
+    "Express.js",
+    "HTML5",
+    "CSS3",
+    "MongoDB",
+    "MySql",
+    "Python",
+    "REST APIs",
+    "CRUD Operations",
+    "Responsive Design",
+    "Git",
+    "Postman",
+    "Tablaue",
+    "Figma",
+    "Angular",
+    "JWT",
+    "Nodemailer",
+    "TailwindCSS",
+    "GroqAI"
+  ],
+  "projects": [
+    "AI-Powered Poetry & Story Generator",
+    "Smart Traffic AI"
+  ],
+  "createdAt": {
+    "$date": "2026-08-05T11:04:17.779Z"
+  },
+  "updatedAt": {
+    "$date": "2026-08-05T11:04:51.977Z"
+  },
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "6a731912f130420ce5b0fc07"
+  },
+  "userId": {
+    "$oid": "6a72384280c8ae9fb0c5e89f"
+  },
+  "fileName": "SakshamResume.pdf",
+  "fileUrl": "uploads\\6a72384280c8ae9fb0c5e89f-1785927954241.pdf",
+  "extractedText": "SAKSHAMPRASAD\n+917737967730|sakshamprasad179@gmail.com|Indore, India\n⋄\nlinkedin.com/in/saksham-prasad-b15815254\nPROFESSIONALSUMMARY\nB.TechComputerSciencegraduatewithstrongfoundationsinC,C++,andJavaScript,andhands-onexperienceinfrontend\nandfull-stackwebdevelopment.Proficientinbuildingresponsive,user-friendlyapplicationsusingReact.jsandtheMERN\nstack. Passionate about writing clean code, learning modern web technologies, and contributing to real world software\nsolutions.\nEDUCATION\nBachelorofTechnology(B.Tech)–ComputerScienceEngineering\nChameliDeviGroupofInstitutions,Indore(2022-2026)\nCGPA:7.50\nTECHNICALSKILLS\nFrontend:HTML5,CSS3,JavaScript(ES6+),React.js,Angular\nBackend:Node.js,Express.js\nDatabases:MongoDB,MySql\nProgrammingLanguages:C,C++,Python\nTools&Concepts:RESTAPIs,CRUDOperations,ResponsiveDesign,Git(basic),Postman,Tablaue,Figma\nSoftSkills:Analyticalthinking,problem-solving,communication,teamwork\nPROJECTS\nAI-PoweredPoetry&StoryGenerator\nTechStack:React.js,Node.js,Express.js,MongoDB,HTML,CSS,JavaScript,JWT,Nodemailer,TailwindCSS\n\nDesignedanddevelopedafull-stackAI-poweredcontentgenerationplatformforstories,poems,andjokes\n.\n\nImplementedsecureJWTauthenticationwithemailverification,OTP-basedpasswordreset,andrefreshtokenrotation.\nIntegratedtheGroqAIAPItogeneratecreativecontentandbuiltRESTfulAPIsusingtheMVCarchitecture.\nSmartTrafficAI\nTechStack:React.js,Node.js,Express.js,MongoDB,GroqAI,JWT,Nodemailer,TailwindCSS\nDesignedanddevelopedafull-stackAI-poweredtrafficmanagementplatformwithreal-timetrafficmonitoring\nImplementedsecureJWTauthentication,bcryptpasswordhashing,andprotectedAPIroutes.\n\nIntegratedA*pathfindingandML-basedcongestionpredictionforoptimizedrouteplanning.\nINTERNSHIP\n\nRole:UIIntern(Angular)\n\nOrganization:TechMahindraLtd.,Gurugram\n\nDuration:July15,2025-October15,2025\n\nResponsibilities &Contribution:Developed and improved responsive web interface leveraging Angular framework.\nWorked closely with the backend team to integrate APIs and ensure seamless application performance.\n\nTechnologies:AngularJS,JavaScript,HTML,CSS\nCERTIFICATIONS\nC&C++:UniversalInformatics\nPromptEngineering:InfosysSpringboard\nAWSCloudPractitioner:AWSSkillBuilder\nDataAnalyticsJobSimulationusingtablue:Delloite,Forage\nACHIEVEMENT\n\nParticipatedinacollegelevelhackathonHackWave(36-hour),collaboratingonrealworldproblemsolving.\n\nReceivedahardwarekitfromIITBombayforparticipationinthee-YantraRoboticsCompetition.",
+  "extractedSkills": [
+    "C",
+    "C++",
+    "JavaScript",
+    "React.js",
+    "Angular",
+    "Node.js",
+    "Express.js",
+    "MongoDB",
+    "MySql",
+    "HTML5",
+    "CSS3",
+    "Python",
+    "REST APIs",
+    "CRUD Operations",
+    "Git",
+    "Postman",
+    "Tablaue",
+    "Figma",
+    "JWT",
+    "Nodemailer",
+    "TailwindCSS"
+  ],
+  "projects": [
+    "AI-Powered Poetry & Story Generator",
+    "Smart Traffic AI"
+  ],
+  "createdAt": {
+    "$date": "2026-08-05T11:05:54.335Z"
+  },
+  "updatedAt": {
+    "$date": "2026-08-05T11:06:14.008Z"
+  },
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "6a73297f33d33d232c18dec8"
+  },
+  "userId": {
+    "$oid": "6a72384280c8ae9fb0c5e89f"
+  },
+  "fileName": "SakshamResume.pdf",
+  "fileUrl": "uploads\\6a72384280c8ae9fb0c5e89f-1785932159339.pdf",
+  "extractedText": "SAKSHAMPRASAD\n+917737967730|sakshamprasad179@gmail.com|Indore, India\n⋄\nlinkedin.com/in/saksham-prasad-b15815254\nPROFESSIONALSUMMARY\nB.TechComputerSciencegraduatewithstrongfoundationsinC,C++,andJavaScript,andhands-onexperienceinfrontend\nandfull-stackwebdevelopment.Proficientinbuildingresponsive,user-friendlyapplicationsusingReact.jsandtheMERN\nstack. Passionate about writing clean code, learning modern web technologies, and contributing to real world software\nsolutions.\nEDUCATION\nBachelorofTechnology(B.Tech)–ComputerScienceEngineering\nChameliDeviGroupofInstitutions,Indore(2022-2026)\nCGPA:7.50\nTECHNICALSKILLS\nFrontend:HTML5,CSS3,JavaScript(ES6+),React.js,Angular\nBackend:Node.js,Express.js\nDatabases:MongoDB,MySql\nProgrammingLanguages:C,C++,Python\nTools&Concepts:RESTAPIs,CRUDOperations,ResponsiveDesign,Git(basic),Postman,Tablaue,Figma\nSoftSkills:Analyticalthinking,problem-solving,communication,teamwork\nPROJECTS\nAI-PoweredPoetry&StoryGenerator\nTechStack:React.js,Node.js,Express.js,MongoDB,HTML,CSS,JavaScript,JWT,Nodemailer,TailwindCSS\n\nDesignedanddevelopedafull-stackAI-poweredcontentgenerationplatformforstories,poems,andjokes\n.\n\nImplementedsecureJWTauthenticationwithemailverification,OTP-basedpasswordreset,andrefreshtokenrotation.\nIntegratedtheGroqAIAPItogeneratecreativecontentandbuiltRESTfulAPIsusingtheMVCarchitecture.\nSmartTrafficAI\nTechStack:React.js,Node.js,Express.js,MongoDB,GroqAI,JWT,Nodemailer,TailwindCSS\nDesignedanddevelopedafull-stackAI-poweredtrafficmanagementplatformwithreal-timetrafficmonitoring\nImplementedsecureJWTauthentication,bcryptpasswordhashing,andprotectedAPIroutes.\n\nIntegratedA*pathfindingandML-basedcongestionpredictionforoptimizedrouteplanning.\nINTERNSHIP\n\nRole:UIIntern(Angular)\n\nOrganization:TechMahindraLtd.,Gurugram\n\nDuration:July15,2025-October15,2025\n\nResponsibilities &Contribution:Developed and improved responsive web interface leveraging Angular framework.\nWorked closely with the backend team to integrate APIs and ensure seamless application performance.\n\nTechnologies:AngularJS,JavaScript,HTML,CSS\nCERTIFICATIONS\nC&C++:UniversalInformatics\nPromptEngineering:InfosysSpringboard\nAWSCloudPractitioner:AWSSkillBuilder\nDataAnalyticsJobSimulationusingtablue:Delloite,Forage\nACHIEVEMENT\n\nParticipatedinacollegelevelhackathonHackWave(36-hour),collaboratingonrealworldproblemsolving.\n\nReceivedahardwarekitfromIITBombayforparticipationinthee-YantraRoboticsCompetition.",
+  "extractedSkills": [
+    "C",
+    "C++",
+    "JavaScript",
+    "React.js",
+    "Angular",
+    "Node.js",
+    "Express.js",
+    "MongoDB",
+    "MySql",
+    "HTML5",
+    "CSS3",
+    "Python",
+    "REST APIs",
+    "CRUD Operations",
+    "Git",
+    "Postman",
+    "Tablaue",
+    "Figma",
+    "JWT",
+    "Nodemailer",
+    "TailwindCSS"
+  ],
+  "projects": [
+    "AI-Powered Poetry & Story Generator",
+    "Smart Traffic AI"
+  ],
+  "createdAt": {
+    "$date": "2026-08-05T12:15:59.547Z"
+  },
+  "updatedAt": {
+    "$date": "2026-08-05T12:16:16.186Z"
+  },
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "6a7329c033d33d232c18dedc"
+  },
+  "userId": {
+    "$oid": "6a72384280c8ae9fb0c5e89f"
+  },
+  "fileName": "SakshamResume.pdf",
+  "fileUrl": "uploads\\6a72384280c8ae9fb0c5e89f-1785932224668.pdf",
+  "extractedText": "SAKSHAMPRASAD\n+917737967730|sakshamprasad179@gmail.com|Indore, India\n⋄\nlinkedin.com/in/saksham-prasad-b15815254\nPROFESSIONALSUMMARY\nB.TechComputerSciencegraduatewithstrongfoundationsinC,C++,andJavaScript,andhands-onexperienceinfrontend\nandfull-stackwebdevelopment.Proficientinbuildingresponsive,user-friendlyapplicationsusingReact.jsandtheMERN\nstack. Passionate about writing clean code, learning modern web technologies, and contributing to real world software\nsolutions.\nEDUCATION\nBachelorofTechnology(B.Tech)–ComputerScienceEngineering\nChameliDeviGroupofInstitutions,Indore(2022-2026)\nCGPA:7.50\nTECHNICALSKILLS\nFrontend:HTML5,CSS3,JavaScript(ES6+),React.js,Angular\nBackend:Node.js,Express.js\nDatabases:MongoDB,MySql\nProgrammingLanguages:C,C++,Python\nTools&Concepts:RESTAPIs,CRUDOperations,ResponsiveDesign,Git(basic),Postman,Tablaue,Figma\nSoftSkills:Analyticalthinking,problem-solving,communication,teamwork\nPROJECTS\nAI-PoweredPoetry&StoryGenerator\nTechStack:React.js,Node.js,Express.js,MongoDB,HTML,CSS,JavaScript,JWT,Nodemailer,TailwindCSS\n\nDesignedanddevelopedafull-stackAI-poweredcontentgenerationplatformforstories,poems,andjokes\n.\n\nImplementedsecureJWTauthenticationwithemailverification,OTP-basedpasswordreset,andrefreshtokenrotation.\nIntegratedtheGroqAIAPItogeneratecreativecontentandbuiltRESTfulAPIsusingtheMVCarchitecture.\nSmartTrafficAI\nTechStack:React.js,Node.js,Express.js,MongoDB,GroqAI,JWT,Nodemailer,TailwindCSS\nDesignedanddevelopedafull-stackAI-poweredtrafficmanagementplatformwithreal-timetrafficmonitoring\nImplementedsecureJWTauthentication,bcryptpasswordhashing,andprotectedAPIroutes.\n\nIntegratedA*pathfindingandML-basedcongestionpredictionforoptimizedrouteplanning.\nINTERNSHIP\n\nRole:UIIntern(Angular)\n\nOrganization:TechMahindraLtd.,Gurugram\n\nDuration:July15,2025-October15,2025\n\nResponsibilities &Contribution:Developed and improved responsive web interface leveraging Angular framework.\nWorked closely with the backend team to integrate APIs and ensure seamless application performance.\n\nTechnologies:AngularJS,JavaScript,HTML,CSS\nCERTIFICATIONS\nC&C++:UniversalInformatics\nPromptEngineering:InfosysSpringboard\nAWSCloudPractitioner:AWSSkillBuilder\nDataAnalyticsJobSimulationusingtablue:Delloite,Forage\nACHIEVEMENT\n\nParticipatedinacollegelevelhackathonHackWave(36-hour),collaboratingonrealworldproblemsolving.\n\nReceivedahardwarekitfromIITBombayforparticipationinthee-YantraRoboticsCompetition.",
+  "extractedSkills": [
+    "C",
+    "C++",
+    "JavaScript",
+    "React.js",
+    "Angular",
+    "Node.js",
+    "Express.js",
+    "MongoDB",
+    "MySql",
+    "Python",
+    "HTML5",
+    "CSS3",
+    "RESTAPIs",
+    "CRUDOperations",
+    "ResponsiveDesign",
+    "Git",
+    "Postman",
+    "Tablaue",
+    "Figma",
+    "JWT",
+    "Nodemailer",
+    "TailwindCSS",
+    "GroqAI",
+    "A*pathfinding",
+    "ML-basedcongestionprediction"
+  ],
+  "projects": [
+    "AI-PoweredPoetry&StoryGenerator",
+    "SmartTrafficAI"
+  ],
+  "createdAt": {
+    "$date": "2026-08-05T12:17:04.747Z"
+  },
+  "updatedAt": {
+    "$date": "2026-08-05T12:17:25.803Z"
+  },
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "6a733c8b33d33d232c18def6"
+  },
+  "userId": {
+    "$oid": "6a72384280c8ae9fb0c5e89f"
+  },
+  "fileName": "SakshamResume.pdf",
+  "fileUrl": "uploads\\6a72384280c8ae9fb0c5e89f-1785937034833.pdf",
+  "extractedText": "SAKSHAMPRASAD\n+917737967730|sakshamprasad179@gmail.com|Indore, India\n⋄\nlinkedin.com/in/saksham-prasad-b15815254\nPROFESSIONALSUMMARY\nB.TechComputerSciencegraduatewithstrongfoundationsinC,C++,andJavaScript,andhands-onexperienceinfrontend\nandfull-stackwebdevelopment.Proficientinbuildingresponsive,user-friendlyapplicationsusingReact.jsandtheMERN\nstack. Passionate about writing clean code, learning modern web technologies, and contributing to real world software\nsolutions.\nEDUCATION\nBachelorofTechnology(B.Tech)–ComputerScienceEngineering\nChameliDeviGroupofInstitutions,Indore(2022-2026)\nCGPA:7.50\nTECHNICALSKILLS\nFrontend:HTML5,CSS3,JavaScript(ES6+),React.js,Angular\nBackend:Node.js,Express.js\nDatabases:MongoDB,MySql\nProgrammingLanguages:C,C++,Python\nTools&Concepts:RESTAPIs,CRUDOperations,ResponsiveDesign,Git(basic),Postman,Tablaue,Figma\nSoftSkills:Analyticalthinking,problem-solving,communication,teamwork\nPROJECTS\nAI-PoweredPoetry&StoryGenerator\nTechStack:React.js,Node.js,Express.js,MongoDB,HTML,CSS,JavaScript,JWT,Nodemailer,TailwindCSS\n\nDesignedanddevelopedafull-stackAI-poweredcontentgenerationplatformforstories,poems,andjokes\n.\n\nImplementedsecureJWTauthenticationwithemailverification,OTP-basedpasswordreset,andrefreshtokenrotation.\nIntegratedtheGroqAIAPItogeneratecreativecontentandbuiltRESTfulAPIsusingtheMVCarchitecture.\nSmartTrafficAI\nTechStack:React.js,Node.js,Express.js,MongoDB,GroqAI,JWT,Nodemailer,TailwindCSS\nDesignedanddevelopedafull-stackAI-poweredtrafficmanagementplatformwithreal-timetrafficmonitoring\nImplementedsecureJWTauthentication,bcryptpasswordhashing,andprotectedAPIroutes.\n\nIntegratedA*pathfindingandML-basedcongestionpredictionforoptimizedrouteplanning.\nINTERNSHIP\n\nRole:UIIntern(Angular)\n\nOrganization:TechMahindraLtd.,Gurugram\n\nDuration:July15,2025-October15,2025\n\nResponsibilities &Contribution:Developed and improved responsive web interface leveraging Angular framework.\nWorked closely with the backend team to integrate APIs and ensure seamless application performance.\n\nTechnologies:AngularJS,JavaScript,HTML,CSS\nCERTIFICATIONS\nC&C++:UniversalInformatics\nPromptEngineering:InfosysSpringboard\nAWSCloudPractitioner:AWSSkillBuilder\nDataAnalyticsJobSimulationusingtablue:Delloite,Forage\nACHIEVEMENT\n\nParticipatedinacollegelevelhackathonHackWave(36-hour),collaboratingonrealworldproblemsolving.\n\nReceivedahardwarekitfromIITBombayforparticipationinthee-YantraRoboticsCompetition.",
+  "extractedSkills": [
+    "C",
+    "C++",
+    "JavaScript",
+    "React.js",
+    "Angular",
+    "Node.js",
+    "Express.js",
+    "MongoDB",
+    "MySql",
+    "Python",
+    "HTML5",
+    "CSS3",
+    "RESTAPIs",
+    "CRUDOperations",
+    "ResponsiveDesign",
+    "Git",
+    "Postman",
+    "Figma",
+    "Tablaue"
+  ],
+  "projects": [
+    "AI-Powered Poetry & Story Generator",
+    "Smart Traffic AI"
+  ],
+  "createdAt": {
+    "$date": "2026-08-05T13:37:15.231Z"
+  },
+  "updatedAt": {
+    "$date": "2026-08-05T13:37:47.658Z"
+  },
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "6a733d0433d33d232c18df11"
+  },
+  "userId": {
+    "$oid": "6a72384280c8ae9fb0c5e89f"
+  },
+  "fileName": "SakshamResume.pdf",
+  "fileUrl": "uploads\\6a72384280c8ae9fb0c5e89f-1785937156395.pdf",
+  "extractedText": "SAKSHAMPRASAD\n+917737967730|sakshamprasad179@gmail.com|Indore, India\n⋄\nlinkedin.com/in/saksham-prasad-b15815254\nPROFESSIONALSUMMARY\nB.TechComputerSciencegraduatewithstrongfoundationsinC,C++,andJavaScript,andhands-onexperienceinfrontend\nandfull-stackwebdevelopment.Proficientinbuildingresponsive,user-friendlyapplicationsusingReact.jsandtheMERN\nstack. Passionate about writing clean code, learning modern web technologies, and contributing to real world software\nsolutions.\nEDUCATION\nBachelorofTechnology(B.Tech)–ComputerScienceEngineering\nChameliDeviGroupofInstitutions,Indore(2022-2026)\nCGPA:7.50\nTECHNICALSKILLS\nFrontend:HTML5,CSS3,JavaScript(ES6+),React.js,Angular\nBackend:Node.js,Express.js\nDatabases:MongoDB,MySql\nProgrammingLanguages:C,C++,Python\nTools&Concepts:RESTAPIs,CRUDOperations,ResponsiveDesign,Git(basic),Postman,Tablaue,Figma\nSoftSkills:Analyticalthinking,problem-solving,communication,teamwork\nPROJECTS\nAI-PoweredPoetry&StoryGenerator\nTechStack:React.js,Node.js,Express.js,MongoDB,HTML,CSS,JavaScript,JWT,Nodemailer,TailwindCSS\n\nDesignedanddevelopedafull-stackAI-poweredcontentgenerationplatformforstories,poems,andjokes\n.\n\nImplementedsecureJWTauthenticationwithemailverification,OTP-basedpasswordreset,andrefreshtokenrotation.\nIntegratedtheGroqAIAPItogeneratecreativecontentandbuiltRESTfulAPIsusingtheMVCarchitecture.\nSmartTrafficAI\nTechStack:React.js,Node.js,Express.js,MongoDB,GroqAI,JWT,Nodemailer,TailwindCSS\nDesignedanddevelopedafull-stackAI-poweredtrafficmanagementplatformwithreal-timetrafficmonitoring\nImplementedsecureJWTauthentication,bcryptpasswordhashing,andprotectedAPIroutes.\n\nIntegratedA*pathfindingandML-basedcongestionpredictionforoptimizedrouteplanning.\nINTERNSHIP\n\nRole:UIIntern(Angular)\n\nOrganization:TechMahindraLtd.,Gurugram\n\nDuration:July15,2025-October15,2025\n\nResponsibilities &Contribution:Developed and improved responsive web interface leveraging Angular framework.\nWorked closely with the backend team to integrate APIs and ensure seamless application performance.\n\nTechnologies:AngularJS,JavaScript,HTML,CSS\nCERTIFICATIONS\nC&C++:UniversalInformatics\nPromptEngineering:InfosysSpringboard\nAWSCloudPractitioner:AWSSkillBuilder\nDataAnalyticsJobSimulationusingtablue:Delloite,Forage\nACHIEVEMENT\n\nParticipatedinacollegelevelhackathonHackWave(36-hour),collaboratingonrealworldproblemsolving.\n\nReceivedahardwarekitfromIITBombayforparticipationinthee-YantraRoboticsCompetition.",
+  "extractedSkills": [
+    "C",
+    "C++",
+    "JavaScript",
+    "React.js",
+    "Angular",
+    "Node.js",
+    "Express.js",
+    "MongoDB",
+    "MySql",
+    "Python",
+    "HTML5",
+    "CSS3",
+    "REST APIs",
+    "CRUD Operations",
+    "Responsive Design",
+    "Git",
+    "Postman",
+    "Tablaue",
+    "Figma",
+    "JWT",
+    "Nodemailer",
+    "TailwindCSS"
+  ],
+  "projects": [
+    "AI-Powered Poetry & Story Generator",
+    "Smart Traffic AI"
+  ],
+  "createdAt": {
+    "$date": "2026-08-05T13:39:16.608Z"
+  },
+  "updatedAt": {
+    "$date": "2026-08-05T13:39:37.920Z"
+  },
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "6a73460acadfbb2ba8d1823a"
+  },
+  "userId": {
+    "$oid": "6a72384280c8ae9fb0c5e89f"
+  },
+  "fileName": "SakshamResume.pdf",
+  "fileUrl": "uploads\\6a72384280c8ae9fb0c5e89f-1785939465154.pdf",
+  "extractedText": "SAKSHAMPRASAD\n+917737967730|sakshamprasad179@gmail.com|Indore, India\n⋄\nlinkedin.com/in/saksham-prasad-b15815254\nPROFESSIONALSUMMARY\nB.TechComputerSciencegraduatewithstrongfoundationsinC,C++,andJavaScript,andhands-onexperienceinfrontend\nandfull-stackwebdevelopment.Proficientinbuildingresponsive,user-friendlyapplicationsusingReact.jsandtheMERN\nstack. Passionate about writing clean code, learning modern web technologies, and contributing to real world software\nsolutions.\nEDUCATION\nBachelorofTechnology(B.Tech)–ComputerScienceEngineering\nChameliDeviGroupofInstitutions,Indore(2022-2026)\nCGPA:7.50\nTECHNICALSKILLS\nFrontend:HTML5,CSS3,JavaScript(ES6+),React.js,Angular\nBackend:Node.js,Express.js\nDatabases:MongoDB,MySql\nProgrammingLanguages:C,C++,Python\nTools&Concepts:RESTAPIs,CRUDOperations,ResponsiveDesign,Git(basic),Postman,Tablaue,Figma\nSoftSkills:Analyticalthinking,problem-solving,communication,teamwork\nPROJECTS\nAI-PoweredPoetry&StoryGenerator\nTechStack:React.js,Node.js,Express.js,MongoDB,HTML,CSS,JavaScript,JWT,Nodemailer,TailwindCSS\n\nDesignedanddevelopedafull-stackAI-poweredcontentgenerationplatformforstories,poems,andjokes\n.\n\nImplementedsecureJWTauthenticationwithemailverification,OTP-basedpasswordreset,andrefreshtokenrotation.\nIntegratedtheGroqAIAPItogeneratecreativecontentandbuiltRESTfulAPIsusingtheMVCarchitecture.\nSmartTrafficAI\nTechStack:React.js,Node.js,Express.js,MongoDB,GroqAI,JWT,Nodemailer,TailwindCSS\nDesignedanddevelopedafull-stackAI-poweredtrafficmanagementplatformwithreal-timetrafficmonitoring\nImplementedsecureJWTauthentication,bcryptpasswordhashing,andprotectedAPIroutes.\n\nIntegratedA*pathfindingandML-basedcongestionpredictionforoptimizedrouteplanning.\nINTERNSHIP\n\nRole:UIIntern(Angular)\n\nOrganization:TechMahindraLtd.,Gurugram\n\nDuration:July15,2025-October15,2025\n\nResponsibilities &Contribution:Developed and improved responsive web interface leveraging Angular framework.\nWorked closely with the backend team to integrate APIs and ensure seamless application performance.\n\nTechnologies:AngularJS,JavaScript,HTML,CSS\nCERTIFICATIONS\nC&C++:UniversalInformatics\nPromptEngineering:InfosysSpringboard\nAWSCloudPractitioner:AWSSkillBuilder\nDataAnalyticsJobSimulationusingtablue:Delloite,Forage\nACHIEVEMENT\n\nParticipatedinacollegelevelhackathonHackWave(36-hour),collaboratingonrealworldproblemsolving.\n\nReceivedahardwarekitfromIITBombayforparticipationinthee-YantraRoboticsCompetition.",
+  "extractedSkills": [
+    "C",
+    "C++",
+    "JavaScript",
+    "React.js",
+    "Angular",
+    "Node.js",
+    "Express.js",
+    "MongoDB",
+    "MySql",
+    "Python",
+    "RESTAPIs",
+    "CRUDOperations",
+    "ResponsiveDesign",
+    "Git",
+    "Postman",
+    "Tablaue",
+    "Figma",
+    "HTML5",
+    "CSS3",
+    "JWT",
+    "Nodemailer",
+    "TailwindCSS",
+    "GroqAI",
+    "A*pathfinding",
+    "ML-basedcongestionprediction",
+    "bcryptpasswordhashing"
+  ],
+  "projects": [
+    "AI-PoweredPoetry&StoryGenerator",
+    "SmartTrafficAI"
+  ],
+  "createdAt": {
+    "$date": "2026-08-05T14:17:46.067Z"
+  },
+  "updatedAt": {
+    "$date": "2026-08-05T14:18:15.877Z"
+  },
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "6a7346dfcadfbb2ba8d18248"
+  },
+  "userId": {
+    "$oid": "6a72384280c8ae9fb0c5e89f"
+  },
+  "fileName": "SakshamResume.pdf",
+  "fileUrl": "uploads\\6a72384280c8ae9fb0c5e89f-1785939678921.pdf",
+  "extractedText": "SAKSHAMPRASAD\n+917737967730|sakshamprasad179@gmail.com|Indore, India\n⋄\nlinkedin.com/in/saksham-prasad-b15815254\nPROFESSIONALSUMMARY\nB.TechComputerSciencegraduatewithstrongfoundationsinC,C++,andJavaScript,andhands-onexperienceinfrontend\nandfull-stackwebdevelopment.Proficientinbuildingresponsive,user-friendlyapplicationsusingReact.jsandtheMERN\nstack. Passionate about writing clean code, learning modern web technologies, and contributing to real world software\nsolutions.\nEDUCATION\nBachelorofTechnology(B.Tech)–ComputerScienceEngineering\nChameliDeviGroupofInstitutions,Indore(2022-2026)\nCGPA:7.50\nTECHNICALSKILLS\nFrontend:HTML5,CSS3,JavaScript(ES6+),React.js,Angular\nBackend:Node.js,Express.js\nDatabases:MongoDB,MySql\nProgrammingLanguages:C,C++,Python\nTools&Concepts:RESTAPIs,CRUDOperations,ResponsiveDesign,Git(basic),Postman,Tablaue,Figma\nSoftSkills:Analyticalthinking,problem-solving,communication,teamwork\nPROJECTS\nAI-PoweredPoetry&StoryGenerator\nTechStack:React.js,Node.js,Express.js,MongoDB,HTML,CSS,JavaScript,JWT,Nodemailer,TailwindCSS\n\nDesignedanddevelopedafull-stackAI-poweredcontentgenerationplatformforstories,poems,andjokes\n.\n\nImplementedsecureJWTauthenticationwithemailverification,OTP-basedpasswordreset,andrefreshtokenrotation.\nIntegratedtheGroqAIAPItogeneratecreativecontentandbuiltRESTfulAPIsusingtheMVCarchitecture.\nSmartTrafficAI\nTechStack:React.js,Node.js,Express.js,MongoDB,GroqAI,JWT,Nodemailer,TailwindCSS\nDesignedanddevelopedafull-stackAI-poweredtrafficmanagementplatformwithreal-timetrafficmonitoring\nImplementedsecureJWTauthentication,bcryptpasswordhashing,andprotectedAPIroutes.\n\nIntegratedA*pathfindingandML-basedcongestionpredictionforoptimizedrouteplanning.\nINTERNSHIP\n\nRole:UIIntern(Angular)\n\nOrganization:TechMahindraLtd.,Gurugram\n\nDuration:July15,2025-October15,2025\n\nResponsibilities &Contribution:Developed and improved responsive web interface leveraging Angular framework.\nWorked closely with the backend team to integrate APIs and ensure seamless application performance.\n\nTechnologies:AngularJS,JavaScript,HTML,CSS\nCERTIFICATIONS\nC&C++:UniversalInformatics\nPromptEngineering:InfosysSpringboard\nAWSCloudPractitioner:AWSSkillBuilder\nDataAnalyticsJobSimulationusingtablue:Delloite,Forage\nACHIEVEMENT\n\nParticipatedinacollegelevelhackathonHackWave(36-hour),collaboratingonrealworldproblemsolving.\n\nReceivedahardwarekitfromIITBombayforparticipationinthee-YantraRoboticsCompetition.",
+  "extractedSkills": [
+    "C",
+    "C++",
+    "JavaScript",
+    "React.js",
+    "Angular",
+    "Node.js",
+    "Express.js",
+    "MongoDB",
+    "MySql",
+    "Python",
+    "REST APIs",
+    "CRUD Operations",
+    "Responsive Design",
+    "Git",
+    "Postman",
+    "Tablaue",
+    "Figma",
+    "HTML5",
+    "CSS3",
+    "JWT",
+    "Nodemailer",
+    "Tailwind CSS",
+    "Groq AI",
+    "A* pathfinding",
+    "ML-based congestion prediction",
+    "bcrypt password hashing"
+  ],
+  "projects": [
+    "AI-Powered Poetry & Story Generator",
+    "Smart Traffic AI"
+  ],
+  "createdAt": {
+    "$date": "2026-08-05T14:21:19.260Z"
+  },
+  "updatedAt": {
+    "$date": "2026-08-05T14:21:30.856Z"
+  },
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "6a734ba2cadfbb2ba8d18268"
+  },
+  "userId": {
+    "$oid": "6a72384280c8ae9fb0c5e89f"
+  },
+  "fileName": "SakshamResume.pdf",
+  "fileUrl": "uploads\\6a72384280c8ae9fb0c5e89f-1785940898423.pdf",
+  "extractedText": "SAKSHAMPRASAD\n+917737967730|sakshamprasad179@gmail.com|Indore, India\n⋄\nlinkedin.com/in/saksham-prasad-b15815254\nPROFESSIONALSUMMARY\nB.TechComputerSciencegraduatewithstrongfoundationsinC,C++,andJavaScript,andhands-onexperienceinfrontend\nandfull-stackwebdevelopment.Proficientinbuildingresponsive,user-friendlyapplicationsusingReact.jsandtheMERN\nstack. Passionate about writing clean code, learning modern web technologies, and contributing to real world software\nsolutions.\nEDUCATION\nBachelorofTechnology(B.Tech)–ComputerScienceEngineering\nChameliDeviGroupofInstitutions,Indore(2022-2026)\nCGPA:7.50\nTECHNICALSKILLS\nFrontend:HTML5,CSS3,JavaScript(ES6+),React.js,Angular\nBackend:Node.js,Express.js\nDatabases:MongoDB,MySql\nProgrammingLanguages:C,C++,Python\nTools&Concepts:RESTAPIs,CRUDOperations,ResponsiveDesign,Git(basic),Postman,Tablaue,Figma\nSoftSkills:Analyticalthinking,problem-solving,communication,teamwork\nPROJECTS\nAI-PoweredPoetry&StoryGenerator\nTechStack:React.js,Node.js,Express.js,MongoDB,HTML,CSS,JavaScript,JWT,Nodemailer,TailwindCSS\n\nDesignedanddevelopedafull-stackAI-poweredcontentgenerationplatformforstories,poems,andjokes\n.\n\nImplementedsecureJWTauthenticationwithemailverification,OTP-basedpasswordreset,andrefreshtokenrotation.\nIntegratedtheGroqAIAPItogeneratecreativecontentandbuiltRESTfulAPIsusingtheMVCarchitecture.\nSmartTrafficAI\nTechStack:React.js,Node.js,Express.js,MongoDB,GroqAI,JWT,Nodemailer,TailwindCSS\nDesignedanddevelopedafull-stackAI-poweredtrafficmanagementplatformwithreal-timetrafficmonitoring\nImplementedsecureJWTauthentication,bcryptpasswordhashing,andprotectedAPIroutes.\n\nIntegratedA*pathfindingandML-basedcongestionpredictionforoptimizedrouteplanning.\nINTERNSHIP\n\nRole:UIIntern(Angular)\n\nOrganization:TechMahindraLtd.,Gurugram\n\nDuration:July15,2025-October15,2025\n\nResponsibilities &Contribution:Developed and improved responsive web interface leveraging Angular framework.\nWorked closely with the backend team to integrate APIs and ensure seamless application performance.\n\nTechnologies:AngularJS,JavaScript,HTML,CSS\nCERTIFICATIONS\nC&C++:UniversalInformatics\nPromptEngineering:InfosysSpringboard\nAWSCloudPractitioner:AWSSkillBuilder\nDataAnalyticsJobSimulationusingtablue:Delloite,Forage\nACHIEVEMENT\n\nParticipatedinacollegelevelhackathonHackWave(36-hour),collaboratingonrealworldproblemsolving.\n\nReceivedahardwarekitfromIITBombayforparticipationinthee-YantraRoboticsCompetition.",
+  "extractedSkills": [
+    "C",
+    "C++",
+    "JavaScript",
+    "HTML5",
+    "CSS3",
+    "React.js",
+    "Angular",
+    "Node.js",
+    "Express.js",
+    "MongoDB",
+    "MySql",
+    "Python",
+    "REST APIs",
+    "CRUD Operations",
+    "Responsive Design",
+    "Git",
+    "Postman",
+    "Tablaue",
+    "Figma",
+    "JWT",
+    "Nodemailer",
+    "TailwindCSS"
+  ],
+  "projects": [
+    "AI-Powered Poetry & Story Generator",
+    "Smart Traffic AI"
+  ],
+  "createdAt": {
+    "$date": "2026-08-05T14:41:38.788Z"
+  },
+  "updatedAt": {
+    "$date": "2026-08-05T14:42:09.045Z"
+  },
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "6a734e67cadfbb2ba8d18282"
+  },
+  "userId": {
+    "$oid": "6a72384280c8ae9fb0c5e89f"
+  },
+  "fileName": "SakshamResume.pdf",
+  "fileUrl": "uploads\\6a72384280c8ae9fb0c5e89f-1785941607788.pdf",
+  "extractedText": "SAKSHAMPRASAD\n+917737967730|sakshamprasad179@gmail.com|Indore, India\n⋄\nlinkedin.com/in/saksham-prasad-b15815254\nPROFESSIONALSUMMARY\nB.TechComputerSciencegraduatewithstrongfoundationsinC,C++,andJavaScript,andhands-onexperienceinfrontend\nandfull-stackwebdevelopment.Proficientinbuildingresponsive,user-friendlyapplicationsusingReact.jsandtheMERN\nstack. Passionate about writing clean code, learning modern web technologies, and contributing to real world software\nsolutions.\nEDUCATION\nBachelorofTechnology(B.Tech)–ComputerScienceEngineering\nChameliDeviGroupofInstitutions,Indore(2022-2026)\nCGPA:7.50\nTECHNICALSKILLS\nFrontend:HTML5,CSS3,JavaScript(ES6+),React.js,Angular\nBackend:Node.js,Express.js\nDatabases:MongoDB,MySql\nProgrammingLanguages:C,C++,Python\nTools&Concepts:RESTAPIs,CRUDOperations,ResponsiveDesign,Git(basic),Postman,Tablaue,Figma\nSoftSkills:Analyticalthinking,problem-solving,communication,teamwork\nPROJECTS\nAI-PoweredPoetry&StoryGenerator\nTechStack:React.js,Node.js,Express.js,MongoDB,HTML,CSS,JavaScript,JWT,Nodemailer,TailwindCSS\n\nDesignedanddevelopedafull-stackAI-poweredcontentgenerationplatformforstories,poems,andjokes\n.\n\nImplementedsecureJWTauthenticationwithemailverification,OTP-basedpasswordreset,andrefreshtokenrotation.\nIntegratedtheGroqAIAPItogeneratecreativecontentandbuiltRESTfulAPIsusingtheMVCarchitecture.\nSmartTrafficAI\nTechStack:React.js,Node.js,Express.js,MongoDB,GroqAI,JWT,Nodemailer,TailwindCSS\nDesignedanddevelopedafull-stackAI-poweredtrafficmanagementplatformwithreal-timetrafficmonitoring\nImplementedsecureJWTauthentication,bcryptpasswordhashing,andprotectedAPIroutes.\n\nIntegratedA*pathfindingandML-basedcongestionpredictionforoptimizedrouteplanning.\nINTERNSHIP\n\nRole:UIIntern(Angular)\n\nOrganization:TechMahindraLtd.,Gurugram\n\nDuration:July15,2025-October15,2025\n\nResponsibilities &Contribution:Developed and improved responsive web interface leveraging Angular framework.\nWorked closely with the backend team to integrate APIs and ensure seamless application performance.\n\nTechnologies:AngularJS,JavaScript,HTML,CSS\nCERTIFICATIONS\nC&C++:UniversalInformatics\nPromptEngineering:InfosysSpringboard\nAWSCloudPractitioner:AWSSkillBuilder\nDataAnalyticsJobSimulationusingtablue:Delloite,Forage\nACHIEVEMENT\n\nParticipatedinacollegelevelhackathonHackWave(36-hour),collaboratingonrealworldproblemsolving.\n\nReceivedahardwarekitfromIITBombayforparticipationinthee-YantraRoboticsCompetition.",
+  "extractedSkills": [],
+  "projects": [],
+  "createdAt": {
+    "$date": "2026-08-05T14:53:27.850Z"
+  },
+  "updatedAt": {
+    "$date": "2026-08-05T14:53:27.850Z"
+  },
+  "__v": 0
+}]

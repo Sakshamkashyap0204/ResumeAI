@@ -1,0 +1,16 @@
+[{
+  "_id": {
+    "$oid": "6a72384280c8ae9fb0c5e89f"
+  },
+  "name": "saksham prasad",
+  "email": "sakshamprasad179@gmail.com",
+  "password": "$2a$12$qjQCL9WaDZgJS3lGmcWyW.avcQEANNYpMB23cT0c5FDCP7Qri8AQK",
+  "isVerified": true,
+  "createdAt": {
+    "$date": "2026-08-04T19:06:42.620Z"
+  },
+  "updatedAt": {
+    "$date": "2026-08-04T19:07:25.337Z"
+  },
+  "__v": 0
+}]

@@ -1,0 +1,1018 @@
+[{
+  "_id": {
+    "$oid": "6a723d5946579f04e917ef2e"
+  },
+  "userId": {
+    "$oid": "6a72384280c8ae9fb0c5e89f"
+  },
+  "resumeId": {
+    "$oid": "6a723d1ba7f1944369a1ae29"
+  },
+  "jobTitle": "MERN stack developer",
+  "jobDescription": "Job Description:\n\nA motivated and detail-oriented Computer Science graduate with hands-on experience in developing web applications using the MERN stack (MongoDB, Express.js, React.js, Node.js). Skilled in building responsive user interfaces, integrating REST APIs, and working collaboratively with backend teams to ensure seamless functionality and performance.\n\nKey Responsibilities:\n\nDevelop and maintain web applications using React.js and Node.js\nDesign and implement RESTful APIs using Express.js\nWork with MongoDB for database design and data management\nBuild responsive and user-friendly UI using HTML, CSS, Tailwind/Bootstrap\nCollaborate with backend teams to integrate APIs efficiently\nDebug, test, and optimize applications for performance\nParticipate in code reviews and follow best coding practices\n\nSkills:\n\nFrontend: React.js, JavaScript (ES6+), HTML, CSS\nBackend: Node.js, Express.js\nDatabase: MongoDB\nTools: Git, GitHub, Postman, Vite\nBasic understanding of authentication (JWT), APIs, and deployment\n\nExperience:\n\nUI Intern (Angular) at Tech Mahindra\n– Developed responsive UI components and integrated APIs with backend services\n\nProjects:\n\nCriminal Record Detection System (Image Processing based)\nMERN-based Web Applications\n\nSoft Skills:\n\nProblem-solving mindset\nQuick learner\nTeam collaboration",
+  "matchPercentage": 80,
+  "matchedSkills": [
+    "React.js",
+    "Node.js",
+    "Express.js",
+    "MongoDB",
+    "JavaScript",
+    "HTML",
+    "CSS",
+    "JWT"
+  ],
+  "missingSkills": [
+    "Git",
+    "GitHub",
+    "Vite",
+    "Bootstrap"
+  ],
+  "roadmap": "Step 1: Learn Git and GitHub by completing online tutorials and contributing to open-source projects. Step 2: Familiarize yourself with Vite by building small projects and exploring its features. Step 3: Learn Bootstrap by taking online courses and building responsive UI components. Step 4: Practice deploying applications using Vite and Bootstrap. Step 5: Review and refine your skills by working on personal projects and participating in coding challenges.",
+  "skills": [
+    "HTML5",
+    "CSS3",
+    "JavaScript",
+    "React.js",
+    "Angular",
+    "Node.js",
+    "Express.js",
+    "MongoDB",
+    "MySql",
+    "C",
+    "C++",
+    "Python",
+    "RESTAPIs",
+    "CRUDOperations",
+    "ResponsiveDesign",
+    "Git",
+    "Postman",
+    "Tablaue",
+    "Figma",
+    "JWT",
+    "Nodemailer",
+    "TailwindCSS"
+  ],
+  "projects": [
+    "AI-Powered Poetry & Story Generator",
+    "Smart Traffic AI"
+  ],
+  "createdAt": {
+    "$date": "2026-08-04T19:28:25.694Z"
+  },
+  "updatedAt": {
+    "$date": "2026-08-04T19:28:25.694Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a723f56f847bbcbb10f9d6b"
+  },
+  "userId": {
+    "$oid": "6a72384280c8ae9fb0c5e89f"
+  },
+  "resumeId": {
+    "$oid": "6a723f37f847bbcbb10f9d66"
+  },
+  "jobTitle": "MERN stack developer",
+  "jobDescription": "Job Description:\n\nA motivated and detail-oriented Computer Science graduate with hands-on experience in developing web applications using the MERN stack (MongoDB, Express.js, React.js, Node.js). Skilled in building responsive user interfaces, integrating REST APIs, and working collaboratively with backend teams to ensure seamless functionality and performance.\n\nKey Responsibilities:\n\nDevelop and maintain web applications using React.js and Node.js\nDesign and implement RESTful APIs using Express.js\nWork with MongoDB for database design and data management\nBuild responsive and user-friendly UI using HTML, CSS, Tailwind/Bootstrap\nCollaborate with backend teams to integrate APIs efficiently\nDebug, test, and optimize applications for performance\nParticipate in code reviews and follow best coding practices\n\nSkills:\n\nFrontend: React.js, JavaScript (ES6+), HTML, CSS\nBackend: Node.js, Express.js\nDatabase: MongoDB\nTools: Git, GitHub, Postman, Vite\nBasic understanding of authentication (JWT), APIs, and deployment\n\nExperience:\n\nUI Intern (Angular) at Tech Mahindra\n– Developed responsive UI components and integrated APIs with backend services\n\nProjects:\n\nCriminal Record Detection System (Image Processing based)\nMERN-based Web Applications\n\nSoft Skills:\n\nProblem-solving mindset\nQuick learner\nTeam collaboration\nAdaptability",
+  "matchPercentage": 80,
+  "matchedSkills": [
+    "React.js",
+    "Node.js",
+    "Express.js",
+    "MongoDB",
+    "HTML",
+    "CSS",
+    "JavaScript"
+  ],
+  "missingSkills": [
+    "Tailwind/Bootstrap",
+    "Authentication (in-depth)"
+  ],
+  "roadmap": "Step 1: Learn Tailwind/Bootstrap for responsive UI development. Step 2: Dive deeper into authentication mechanisms beyond JWT. Step 3: Practice integrating APIs with backend services using Postman for testing and optimization.",
+  "skills": [
+    "React.js",
+    "Node.js",
+    "Express.js",
+    "MongoDB",
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "ES6+",
+    "Git",
+    "GitHub",
+    "Postman",
+    "Vite",
+    "JWT",
+    "Angular",
+    "Image Processing"
+  ],
+  "projects": [
+    "Criminal Record Detection System",
+    "MERN-based Web Applications"
+  ],
+  "createdAt": {
+    "$date": "2026-08-04T19:36:54.837Z"
+  },
+  "updatedAt": {
+    "$date": "2026-08-04T19:36:54.837Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a731632efea03625bfc99a8"
+  },
+  "userId": {
+    "$oid": "6a72384280c8ae9fb0c5e89f"
+  },
+  "resumeId": {
+    "$oid": "6a731601efea03625bfc99a3"
+  },
+  "jobTitle": "Java Developer",
+  "jobDescription": "Required skills for Java Developer: Java, Spring Boot, Spring MVC, Hibernate, Maven, MySQL, PostgreSQL, REST APIs, Microservices, Docker, Git, JUnit.\n\nAdditional job details:\n💼 Job Title: Junior Software Developer / MERN Stack Developer (Fresher)\n\nJob Description:\n\nA motivated and detail-oriented Computer Science graduate with hands-on experience in developing web applications using the MERN stack (MongoDB, Express.js, React.js, Node.js). Skilled in building responsive user interfaces, integrating REST APIs, and working collaboratively with backend teams to ensure seamless functionality and performance.\n\nKey Responsibilities:\n\nDevelop and maintain web applications using React.js and Node.js\nDesign and implement RESTful APIs using Express.js\nWork with MongoDB for database design and data management\nBuild responsive and user-friendly UI using HTML, CSS, Tailwind/Bootstrap\nCollaborate with backend teams to integrate APIs efficiently\nDebug, test, and optimize applications for performance\nParticipate in code reviews and follow best coding practices\n\nSkills:\n\nFrontend: React.js, JavaScript (ES6+), HTML, CSS\nBackend: Node.js, Express.js\nDatabase: MongoDB\nTools: Git, GitHub, Postman, Vite\nBasic understanding of authentication (JWT), APIs, and deployment\n\nExperience:\n\nUI Intern (Angular) at Tech Mahindra\n– Developed responsive UI components and integrated APIs with backend services\n\nProjects:\n\nCriminal Record Detection System (Image Processing based)\nMERN-based Web Applications\n\nSoft Skills:\n\nProblem-solving mindset\nQuick learner\nTeam collaboration\nAdaptability",
+  "matchPercentage": 58,
+  "matchedSkills": [
+    "Java",
+    "Spring MVC",
+    "MySQL",
+    "REST APIs",
+    "Microservices",
+    "Docker",
+    "Git"
+  ],
+  "missingSkills": [
+    "Spring Boot",
+    "Hibernate",
+    "Maven",
+    "PostgreSQL",
+    "JUnit"
+  ],
+  "roadmap": "1. Learn Java fundamentals and syntax\n2. Study Spring Boot and Spring MVC frameworks\n3. Understand Hibernate for database operations\n4. Familiarize yourself with Maven for project management\n5. Learn MySQL and PostgreSQL for database management\n6. Study Microservices architecture for distributed systems\n7. Learn Docker for containerization\n8. Understand JUnit for unit testing",
+  "skills": [
+    "C",
+    "C++",
+    "JavaScript",
+    "React.js",
+    "Angular",
+    "Node.js",
+    "Express.js",
+    "MongoDB",
+    "MySql",
+    "Python",
+    "HTML5",
+    "CSS3",
+    "REST APIs",
+    "CRUD Operations",
+    "Git",
+    "Postman",
+    "TailwindCSS",
+    "JWT",
+    "Nodemailer",
+    "Figma"
+  ],
+  "projects": [
+    "AI-Powered Poetry & Story Generator",
+    "Smart Traffic AI"
+  ],
+  "createdAt": {
+    "$date": "2026-08-05T10:53:38.151Z"
+  },
+  "updatedAt": {
+    "$date": "2026-08-05T10:53:38.151Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a731677efea03625bfc99be"
+  },
+  "userId": {
+    "$oid": "6a72384280c8ae9fb0c5e89f"
+  },
+  "resumeId": {
+    "$oid": "6a731660efea03625bfc99b9"
+  },
+  "jobTitle": "MERN Stack Developer",
+  "jobDescription": "Required skills for MERN Stack Developer: MongoDB, Express.js, React, Node.js, JavaScript, TypeScript, REST APIs, JWT, Git, HTML, CSS, Redux.\n\nAdditional job details:\n💼 Job Title: Junior Software Developer / MERN Stack Developer (Fresher)\n\nJob Description:\n\nA motivated and detail-oriented Computer Science graduate with hands-on experience in developing web applications using the MERN stack (MongoDB, Express.js, React.js, Node.js). Skilled in building responsive user interfaces, integrating REST APIs, and working collaboratively with backend teams to ensure seamless functionality and performance.\n\nKey Responsibilities:\n\nDevelop and maintain web applications using React.js and Node.js\nDesign and implement RESTful APIs using Express.js\nWork with MongoDB for database design and data management\nBuild responsive and user-friendly UI using HTML, CSS, Tailwind/Bootstrap\nCollaborate with backend teams to integrate APIs efficiently\nDebug, test, and optimize applications for performance\nParticipate in code reviews and follow best coding practices\n\nSkills:\n\nFrontend: React.js, JavaScript (ES6+), HTML, CSS\nBackend: Node.js, Express.js\nDatabase: MongoDB\nTools: Git, GitHub, Postman, Vite\nBasic understanding of authentication (JWT), APIs, and deployment\n\nExperience:\n\nUI Intern (Angular) at Tech Mahindra\n– Developed responsive UI components and integrated APIs with backend services\n\nProjects:\n\nCriminal Record Detection System (Image Processing based)\nMERN-based Web Applications\n\nSoft Skills:\n\nProblem-solving mindset\nQuick learner\nTeam collaboration\nAdaptability",
+  "matchPercentage": 92,
+  "matchedSkills": [
+    "MongoDB",
+    "Express.js",
+    "React",
+    "Node.js",
+    "JavaScript",
+    "TypeScript",
+    "REST APIs",
+    "JWT",
+    "Git",
+    "HTML",
+    "CSS"
+  ],
+  "missingSkills": [
+    "Redux"
+  ],
+  "roadmap": "1. Learn the basics of TypeScript and its application in MERN stack development\n2. Understand the concept of TypeScript and its advantages over JavaScript\n3. Practice building small projects using TypeScript and React\n4. Learn about Redux and its role in state management in React applications\n5. Implement Redux in a personal project to gain hands-on experience",
+  "skills": [
+    "C",
+    "C++",
+    "JavaScript",
+    "React.js",
+    "Node.js",
+    "Express.js",
+    "MongoDB",
+    "MySql",
+    "Python",
+    "HTML5",
+    "CSS3",
+    "Angular",
+    "REST APIs",
+    "CRUD Operations",
+    "Responsive Design",
+    "Git",
+    "Postman",
+    "Tablaue",
+    "Figma",
+    "JWT",
+    "Nodemailer",
+    "TailwindCSS",
+    "GroqAI",
+    "A* pathfinding",
+    "ML-based congestion prediction",
+    "bcrypt password hashing"
+  ],
+  "projects": [
+    "AI-Powered Poetry & Story Generator",
+    "Smart Traffic AI"
+  ],
+  "createdAt": {
+    "$date": "2026-08-05T10:54:47.501Z"
+  },
+  "updatedAt": {
+    "$date": "2026-08-05T10:54:47.501Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a7318d3f130420ce5b0fbf8"
+  },
+  "userId": {
+    "$oid": "6a72384280c8ae9fb0c5e89f"
+  },
+  "resumeId": {
+    "$oid": "6a7318b1f130420ce5b0fbf3"
+  },
+  "jobTitle": "Full Stack Developer",
+  "jobDescription": "Required skills for Full Stack Developer: JavaScript, React, Node.js, SQL, REST APIs, Git, Docker, HTML, CSS, TypeScript.\n\nAdditional job details:\n💼 Job Title: Junior Software Developer / MERN Stack Developer (Fresher)\n\nJob Description:\n\nA motivated and detail-oriented Computer Science graduate with hands-on experience in developing web applications using the MERN stack (MongoDB, Express.js, React.js, Node.js). Skilled in building responsive user interfaces, integrating REST APIs, and working collaboratively with backend teams to ensure seamless functionality and performance.\n\nKey Responsibilities:\n\nDevelop and maintain web applications using React.js and Node.js\nDesign and implement RESTful APIs using Express.js\nWork with MongoDB for database design and data management\nBuild responsive and user-friendly UI using HTML, CSS, Tailwind/Bootstrap\nCollaborate with backend teams to integrate APIs efficiently\nDebug, test, and optimize applications for performance\nParticipate in code reviews and follow best coding practices\n\nSkills:\n\nFrontend: React.js, JavaScript (ES6+), HTML, CSS\nBackend: Node.js, Express.js\nDatabase: MongoDB\nTools: Git, GitHub, Postman, Vite\nBasic understanding of authentication (JWT), APIs, and deployment\n\nExperience:\n\nUI Intern (Angular) at Tech Mahindra\n– Developed responsive UI components and integrated APIs with backend services\n\nProjects:\n\nCriminal Record Detection System (Image Processing based)\nMERN-based Web Applications\n\nSoft Skills:\n\nProblem-solving mindset\nQuick learner\nTeam collaboration\nAdaptability",
+  "experienceLevel": "fresher",
+  "matchPercentage": 100,
+  "matchedSkills": [
+    "JavaScript",
+    "React",
+    "Node.js",
+    "SQL",
+    "REST APIs",
+    "Git",
+    "Docker",
+    "HTML",
+    "CSS",
+    "TypeScript"
+  ],
+  "missingSkills": [],
+  "skills": [
+    "C",
+    "C++",
+    "JavaScript",
+    "React.js",
+    "Node.js",
+    "Express.js",
+    "HTML5",
+    "CSS3",
+    "MongoDB",
+    "MySql",
+    "Python",
+    "REST APIs",
+    "CRUD Operations",
+    "Responsive Design",
+    "Git",
+    "Postman",
+    "Tablaue",
+    "Figma",
+    "Angular",
+    "JWT",
+    "Nodemailer",
+    "TailwindCSS",
+    "GroqAI"
+  ],
+  "projects": [
+    "AI-Powered Poetry & Story Generator",
+    "Smart Traffic AI"
+  ],
+  "strongPoints": [
+    "Strong React experience with 2 projects",
+    "Has REST API integration experience",
+    "Experience with MongoDB and Node.js"
+  ],
+  "weakPoints": [
+    "No experience with SQL databases",
+    "No experience with Docker",
+    "No experience with TypeScript"
+  ],
+  "resumeSuggestions": [
+    "Add a personal projects section with GitHub links",
+    "Include an internship or freelance experience section with more details",
+    "Add measurable achievements like 'improved load time by 40%'",
+    "Add a certifications section with more relevant certifications",
+    "Include a professional summary at the top with a clear career goal"
+  ],
+  "roadmap": "1. Learn SQL fundamentals and practice with online platforms like LeetCode or HackerRank.\n2. Familiarize yourself with Docker by completing tutorials on Docker Hub or Udemy.\n3. Start learning TypeScript by taking online courses or coding challenges on platforms like FreeCodeCamp or Codecademy.",
+  "createdAt": {
+    "$date": "2026-08-05T11:04:51.983Z"
+  },
+  "updatedAt": {
+    "$date": "2026-08-05T11:04:51.983Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a731926f130420ce5b0fc0c"
+  },
+  "userId": {
+    "$oid": "6a72384280c8ae9fb0c5e89f"
+  },
+  "resumeId": {
+    "$oid": "6a731912f130420ce5b0fc07"
+  },
+  "jobTitle": "Java Developer",
+  "jobDescription": "Required skills for Java Developer: Java, Spring Boot, Spring MVC, Hibernate, Maven, MySQL, PostgreSQL, REST APIs, Microservices, Docker, Git, JUnit.\n\nAdditional job details:\n💼 Job Title: Junior Software Developer / MERN Stack Developer (Fresher)\n\nJob Description:\n\nA motivated and detail-oriented Computer Science graduate with hands-on experience in developing web applications using the MERN stack (MongoDB, Express.js, React.js, Node.js). Skilled in building responsive user interfaces, integrating REST APIs, and working collaboratively with backend teams to ensure seamless functionality and performance.\n\nKey Responsibilities:\n\nDevelop and maintain web applications using React.js and Node.js\nDesign and implement RESTful APIs using Express.js\nWork with MongoDB for database design and data management\nBuild responsive and user-friendly UI using HTML, CSS, Tailwind/Bootstrap\nCollaborate with backend teams to integrate APIs efficiently\nDebug, test, and optimize applications for performance\nParticipate in code reviews and follow best coding practices\n\nSkills:\n\nFrontend: React.js, JavaScript (ES6+), HTML, CSS\nBackend: Node.js, Express.js\nDatabase: MongoDB\nTools: Git, GitHub, Postman, Vite\nBasic understanding of authentication (JWT), APIs, and deployment\n\nExperience:\n\nUI Intern (Angular) at Tech Mahindra\n– Developed responsive UI components and integrated APIs with backend services\n\nProjects:\n\nCriminal Record Detection System (Image Processing based)\nMERN-based Web Applications\n\nSoft Skills:\n\nProblem-solving mindset\nQuick learner\nTeam collaboration\nAdaptability",
+  "experienceLevel": "fresher",
+  "matchPercentage": 58,
+  "matchedSkills": [
+    "Java",
+    "Spring MVC",
+    "MySQL",
+    "REST APIs",
+    "Microservices",
+    "Docker",
+    "Git"
+  ],
+  "missingSkills": [
+    "Spring Boot",
+    "Hibernate",
+    "Maven",
+    "PostgreSQL",
+    "JUnit"
+  ],
+  "skills": [
+    "C",
+    "C++",
+    "JavaScript",
+    "React.js",
+    "Angular",
+    "Node.js",
+    "Express.js",
+    "MongoDB",
+    "MySql",
+    "HTML5",
+    "CSS3",
+    "Python",
+    "REST APIs",
+    "CRUD Operations",
+    "Git",
+    "Postman",
+    "Tablaue",
+    "Figma",
+    "JWT",
+    "Nodemailer",
+    "TailwindCSS"
+  ],
+  "projects": [
+    "AI-Powered Poetry & Story Generator",
+    "Smart Traffic AI"
+  ],
+  "strongPoints": [
+    "Strong React experience with 2 projects",
+    "Has REST API integration experience",
+    "Proficient in building responsive, user-friendly applications"
+  ],
+  "weakPoints": [
+    "No Java or Spring experience mentioned",
+    "Missing backend skills for this role",
+    "No experience with Docker, Microservices, or JUnit"
+  ],
+  "resumeSuggestions": [
+    "Add a personal projects section with GitHub links",
+    "Include an internship or freelance experience section with more details",
+    "Add measurable achievements like 'improved load time by 40%'",
+    "Add a certifications section for any relevant Java or Spring certifications",
+    "Include a professional summary at the top highlighting relevant skills"
+  ],
+  "roadmap": "1. Start with Java basics and practice building small projects.\n2. Learn Spring Boot and Spring MVC through online courses or tutorials.\n3. Familiarize yourself with Hibernate and Maven.\n4. Practice building REST APIs using Spring Boot.\n5. Learn Docker and Microservices fundamentals.\n6. Study JUnit and practice writing unit tests.\n7. Work on building a personal project that incorporates these skills.\n8. Participate in coding challenges or hackathons to gain experience.",
+  "createdAt": {
+    "$date": "2026-08-05T11:06:14.011Z"
+  },
+  "updatedAt": {
+    "$date": "2026-08-05T11:06:14.011Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a73299033d33d232c18decd"
+  },
+  "userId": {
+    "$oid": "6a72384280c8ae9fb0c5e89f"
+  },
+  "resumeId": {
+    "$oid": "6a73297f33d33d232c18dec8"
+  },
+  "jobTitle": "Java Developer",
+  "jobDescription": "Required skills for Java Developer: Java, Spring Boot, Spring MVC, Hibernate, Maven, MySQL, PostgreSQL, REST APIs, Microservices, Docker, Git, JUnit.\n\nAdditional job details:\n💼 Job Title: Junior Software Developer / MERN Stack Developer (Fresher)\n\nJob Description:\n\nA motivated and detail-oriented Computer Science graduate with hands-on experience in developing web applications using the MERN stack (MongoDB, Express.js, React.js, Node.js). Skilled in building responsive user interfaces, integrating REST APIs, and working collaboratively with backend teams to ensure seamless functionality and performance.\n\nKey Responsibilities:\n\nDevelop and maintain web applications using React.js and Node.js\nDesign and implement RESTful APIs using Express.js\nWork with MongoDB for database design and data management\nBuild responsive and user-friendly UI using HTML, CSS, Tailwind/Bootstrap\nCollaborate with backend teams to integrate APIs efficiently\nDebug, test, and optimize applications for performance\nParticipate in code reviews and follow best coding practices\n\nSkills:\n\nFrontend: React.js, JavaScript (ES6+), HTML, CSS\nBackend: Node.js, Express.js\nDatabase: MongoDB\nTools: Git, GitHub, Postman, Vite\nBasic understanding of authentication (JWT), APIs, and deployment\n\nExperience:\n\nUI Intern (Angular) at Tech Mahindra\n– Developed responsive UI components and integrated APIs with backend services\n\nProjects:\n\nCriminal Record Detection System (Image Processing based)\nMERN-based Web Applications\n\nSoft Skills:\n\nProblem-solving mindset\nQuick learner\nTeam collaboration\nAdaptability\n",
+  "experienceLevel": "fresher",
+  "matchPercentage": 25,
+  "matchedSkills": [
+    "MySQL",
+    "REST APIs",
+    "Git"
+  ],
+  "missingSkills": [
+    "Java",
+    "Spring Boot",
+    "Spring MVC",
+    "Hibernate",
+    "Maven",
+    "PostgreSQL",
+    "Microservices",
+    "Docker",
+    "JUnit"
+  ],
+  "skills": [
+    "C",
+    "C++",
+    "JavaScript",
+    "React.js",
+    "Angular",
+    "Node.js",
+    "Express.js",
+    "MongoDB",
+    "MySql",
+    "HTML5",
+    "CSS3",
+    "Python",
+    "REST APIs",
+    "CRUD Operations",
+    "Git",
+    "Postman",
+    "Tablaue",
+    "Figma",
+    "JWT",
+    "Nodemailer",
+    "TailwindCSS"
+  ],
+  "projects": [
+    "AI-Powered Poetry & Story Generator",
+    "Smart Traffic AI"
+  ],
+  "strongPoints": [
+    "Strong React experience with 2 projects",
+    "Has REST API integration experience",
+    "Proficient in building responsive, user-friendly applications"
+  ],
+  "weakPoints": [
+    "No Java or Spring experience mentioned",
+    "Missing backend skills for this role",
+    "No experience with Docker, Microservices, or JUnit"
+  ],
+  "resumeSuggestions": [
+    "Add a personal projects section with GitHub links",
+    "Include an internship or freelance experience section with more details",
+    "Add measurable achievements like 'improved load time by 40%'",
+    "Add a certifications section for any relevant Java or Spring certifications",
+    "Include a professional summary at the top with a focus on Java and Spring skills"
+  ],
+  "roadmap": "1. Start with Java basics and work on building small projects to get familiar with the language.\n2. Learn Spring Boot and Spring MVC by following online tutorials and building sample applications.\n3. Study Hibernate and learn how to use it for database operations.\n4. Familiarize yourself with Maven, MySQL, and PostgreSQL by working on projects that use these technologies.\n5. Learn about Microservices architecture and how to use Docker for containerization.\n6. Practice using JUnit for testing and debugging Java applications.",
+  "createdAt": {
+    "$date": "2026-08-05T12:16:16.194Z"
+  },
+  "updatedAt": {
+    "$date": "2026-08-05T12:16:16.194Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a7329d533d33d232c18dee1"
+  },
+  "userId": {
+    "$oid": "6a72384280c8ae9fb0c5e89f"
+  },
+  "resumeId": {
+    "$oid": "6a7329c033d33d232c18dedc"
+  },
+  "jobTitle": "Digital Marketing Manager",
+  "jobDescription": "Required skills for Digital Marketing Manager: SEO, SEM, Google Ads, Facebook Ads, Content Marketing, Email Marketing, Google Analytics, Social Media, CRM, Copywriting.\n\nAdditional job details:\n💼 Job Title: Junior Software Developer / MERN Stack Developer (Fresher)\n\nJob Description:\n\nA motivated and detail-oriented Computer Science graduate with hands-on experience in developing web applications using the MERN stack (MongoDB, Express.js, React.js, Node.js). Skilled in building responsive user interfaces, integrating REST APIs, and working collaboratively with backend teams to ensure seamless functionality and performance.\n\nKey Responsibilities:\n\nDevelop and maintain web applications using React.js and Node.js\nDesign and implement RESTful APIs using Express.js\nWork with MongoDB for database design and data management\nBuild responsive and user-friendly UI using HTML, CSS, Tailwind/Bootstrap\nCollaborate with backend teams to integrate APIs efficiently\nDebug, test, and optimize applications for performance\nParticipate in code reviews and follow best coding practices\n\nSkills:\n\nFrontend: React.js, JavaScript (ES6+), HTML, CSS\nBackend: Node.js, Express.js\nDatabase: MongoDB\nTools: Git, GitHub, Postman, Vite\nBasic understanding of authentication (JWT), APIs, and deployment\n\nExperience:\n\nUI Intern (Angular) at Tech Mahindra\n– Developed responsive UI components and integrated APIs with backend services\n\nProjects:\n\nCriminal Record Detection System (Image Processing based)\nMERN-based Web Applications\n\nSoft Skills:\n\nProblem-solving mindset\nQuick learner\nTeam collaboration\nAdaptability",
+  "experienceLevel": "fresher",
+  "matchPercentage": 0,
+  "matchedSkills": [],
+  "missingSkills": [
+    "SEO",
+    "SEM",
+    "Google Ads",
+    "Facebook Ads",
+    "Content Marketing",
+    "Email Marketing",
+    "Google Analytics",
+    "Social Media",
+    "CRM",
+    "Copywriting"
+  ],
+  "skills": [
+    "C",
+    "C++",
+    "JavaScript",
+    "React.js",
+    "Angular",
+    "Node.js",
+    "Express.js",
+    "MongoDB",
+    "MySql",
+    "Python",
+    "HTML5",
+    "CSS3",
+    "RESTAPIs",
+    "CRUDOperations",
+    "ResponsiveDesign",
+    "Git",
+    "Postman",
+    "Tablaue",
+    "Figma",
+    "JWT",
+    "Nodemailer",
+    "TailwindCSS",
+    "GroqAI",
+    "A*pathfinding",
+    "ML-basedcongestionprediction"
+  ],
+  "projects": [
+    "AI-PoweredPoetry&StoryGenerator",
+    "SmartTrafficAI"
+  ],
+  "strongPoints": [
+    "Strong React experience with full-stack development",
+    "Has REST API integration experience",
+    "Experience with frontend and backend development using MERN stack"
+  ],
+  "weakPoints": [
+    "No experience in digital marketing",
+    "No skills mentioned for SEO, SEM, Google Ads, or Facebook Ads",
+    "Missing experience in Content Marketing, Email Marketing, and Google Analytics"
+  ],
+  "resumeSuggestions": [
+    "Add relevant coursework or training in digital marketing",
+    "Include any personal projects or volunteer work related to digital marketing",
+    "Highlight transferable skills from software development to digital marketing, such as data analysis or problem-solving",
+    "Consider adding a section for certifications or online courses in digital marketing",
+    "Emphasize any experience with social media or content creation"
+  ],
+  "roadmap": "1. Start with online courses or tutorials to learn the basics of digital marketing, including SEO, SEM, and Google Ads.\n2. Practice creating and managing social media campaigns using Facebook Ads and other platforms.\n3. Learn about Google Analytics and how to track website traffic and engagement.\n4. Develop skills in Content Marketing and Email Marketing through online courses or certifications.\n5. Familiarize yourself with CRM software and its applications in digital marketing.\n6. Build a personal project or contribute to an open-source project that demonstrates your skills in digital marketing.",
+  "createdAt": {
+    "$date": "2026-08-05T12:17:25.806Z"
+  },
+  "updatedAt": {
+    "$date": "2026-08-05T12:17:25.806Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a733cab33d33d232c18defb"
+  },
+  "userId": {
+    "$oid": "6a72384280c8ae9fb0c5e89f"
+  },
+  "resumeId": {
+    "$oid": "6a733c8b33d33d232c18def6"
+  },
+  "jobTitle": "UI/UX Designer",
+  "jobDescription": "Required skills for UI/UX Designer: Figma, Adobe XD, Wireframing, Prototyping, User Research, Usability Testing, Design Systems, HTML, CSS, Sketch.\n\nAdditional job details:\n💼 Job Title: Junior Software Developer / MERN Stack Developer (Fresher)\n\nJob Description:\n\nA motivated and detail-oriented Computer Science graduate with hands-on experience in developing web applications using the MERN stack (MongoDB, Express.js, React.js, Node.js). Skilled in building responsive user interfaces, integrating REST APIs, and working collaboratively with backend teams to ensure seamless functionality and performance.\n\nKey Responsibilities:\n\nDevelop and maintain web applications using React.js and Node.js\nDesign and implement RESTful APIs using Express.js\nWork with MongoDB for database design and data management\nBuild responsive and user-friendly UI using HTML, CSS, Tailwind/Bootstrap\nCollaborate with backend teams to integrate APIs efficiently\nDebug, test, and optimize applications for performance\nParticipate in code reviews and follow best coding practices\n\nSkills:\n\nFrontend: React.js, JavaScript (ES6+), HTML, CSS\nBackend: Node.js, Express.js\nDatabase: MongoDB\nTools: Git, GitHub, Postman, Vite\nBasic understanding of authentication (JWT), APIs, and deployment\n\nExperience:\n\nUI Intern (Angular) at Tech Mahindra\n– Developed responsive UI components and integrated APIs with backend services\n\nProjects:\n\nCriminal Record Detection System (Image Processing based)\nMERN-based Web Applications\n\nSoft Skills:\n\nProblem-solving mindset\nQuick learner\nTeam collaboration\nAdaptability\n",
+  "experienceLevel": "fresher",
+  "matchPercentage": 30,
+  "matchedSkills": [
+    "Figma",
+    "HTML",
+    "CSS"
+  ],
+  "missingSkills": [
+    "Adobe XD",
+    "Wireframing",
+    "Prototyping",
+    "User Research",
+    "Usability Testing",
+    "Design Systems",
+    "Sketch"
+  ],
+  "skills": [
+    "C",
+    "C++",
+    "JavaScript",
+    "React.js",
+    "Angular",
+    "Node.js",
+    "Express.js",
+    "MongoDB",
+    "MySql",
+    "Python",
+    "HTML5",
+    "CSS3",
+    "RESTAPIs",
+    "CRUDOperations",
+    "ResponsiveDesign",
+    "Git",
+    "Postman",
+    "Figma",
+    "Tablaue"
+  ],
+  "projects": [
+    "AI-Powered Poetry & Story Generator",
+    "Smart Traffic AI"
+  ],
+  "strongPoints": [
+    "Strong React experience with multiple projects",
+    "Has REST API integration experience",
+    "Proficient in building responsive and user-friendly applications"
+  ],
+  "weakPoints": [
+    "No UI/UX design experience mentioned",
+    "Limited experience with design tools like Adobe XD and Sketch",
+    "No mention of user research or usability testing experience"
+  ],
+  "resumeSuggestions": [
+    "Add a UI/UX design experience section",
+    "Include a personal projects section with GitHub links",
+    "Add measurable achievements like 'improved load time by 40%'",
+    "Add a certifications section for UI/UX design",
+    "Include a professional summary at the top highlighting UI/UX skills",
+    "Emphasize transferable skills from other experiences, like problem-solving and teamwork"
+  ],
+  "roadmap": "1. Learn the basics of Adobe XD and Sketch\n2. Practice wireframing and prototyping using online tools\n3. Take online courses or attend workshops on user research and usability testing\n4. Build personal projects that demonstrate UI/UX design skills\n5. Participate in design challenges or hackathons to gain experience",
+  "createdAt": {
+    "$date": "2026-08-05T13:37:47.666Z"
+  },
+  "updatedAt": {
+    "$date": "2026-08-05T13:37:47.666Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a733d1933d33d232c18df16"
+  },
+  "userId": {
+    "$oid": "6a72384280c8ae9fb0c5e89f"
+  },
+  "resumeId": {
+    "$oid": "6a733d0433d33d232c18df11"
+  },
+  "jobTitle": "MERN Stack Developer",
+  "jobDescription": "Required skills for MERN Stack Developer: MongoDB, Express.js, React, Node.js, JavaScript, TypeScript, REST APIs, JWT, Git, HTML, CSS, Redux.\n\nAdditional job details:\n💼 Job Title: Junior Software Developer / MERN Stack Developer (Fresher)\n\nJob Description:\n\nA motivated and detail-oriented Computer Science graduate with hands-on experience in developing web applications using the MERN stack (MongoDB, Express.js, React.js, Node.js). Skilled in building responsive user interfaces, integrating REST APIs, and working collaboratively with backend teams to ensure seamless functionality and performance.\n\nKey Responsibilities:\n\nDevelop and maintain web applications using React.js and Node.js\nDesign and implement RESTful APIs using Express.js\nWork with MongoDB for database design and data management\nBuild responsive and user-friendly UI using HTML, CSS, Tailwind/Bootstrap\nCollaborate with backend teams to integrate APIs efficiently\nDebug, test, and optimize applications for performance\nParticipate in code reviews and follow best coding practices\n\nSkills:\n\nFrontend: React.js, JavaScript (ES6+), HTML, CSS\nBackend: Node.js, Express.js\nDatabase: MongoDB\nTools: Git, GitHub, Postman, Vite\nBasic understanding of authentication (JWT), APIs, and deployment\n\nExperience:\n\nUI Intern (Angular) at Tech Mahindra\n– Developed responsive UI components and integrated APIs with backend services\n\nProjects:\n\nCriminal Record Detection System (Image Processing based)\nMERN-based Web Applications\n\nSoft Skills:\n\nProblem-solving mindset\nQuick learner\nTeam collaboration\nAdaptability",
+  "experienceLevel": "fresher",
+  "matchPercentage": 83,
+  "matchedSkills": [
+    "MongoDB",
+    "Express.js",
+    "React",
+    "Node.js",
+    "JavaScript",
+    "REST APIs",
+    "JWT",
+    "Git",
+    "HTML",
+    "CSS"
+  ],
+  "missingSkills": [
+    "TypeScript",
+    "Redux"
+  ],
+  "skills": [
+    "C",
+    "C++",
+    "JavaScript",
+    "React.js",
+    "Angular",
+    "Node.js",
+    "Express.js",
+    "MongoDB",
+    "MySql",
+    "Python",
+    "HTML5",
+    "CSS3",
+    "REST APIs",
+    "CRUD Operations",
+    "Responsive Design",
+    "Git",
+    "Postman",
+    "Tablaue",
+    "Figma",
+    "JWT",
+    "Nodemailer",
+    "TailwindCSS"
+  ],
+  "projects": [
+    "AI-Powered Poetry & Story Generator",
+    "Smart Traffic AI"
+  ],
+  "strongPoints": [
+    "Strong React experience with 2 projects",
+    "Has REST API integration experience",
+    "Experience with MongoDB and Node.js"
+  ],
+  "weakPoints": [
+    "No experience with TypeScript mentioned",
+    "Missing experience with Redux",
+    "Limited experience with backend development"
+  ],
+  "resumeSuggestions": [
+    "Add a personal projects section with GitHub links",
+    "Include an internship or freelance experience section with more details",
+    "Add measurable achievements like 'improved load time by 40%'",
+    "Add a certifications section with more relevant certifications",
+    "Include a professional summary at the top with a clear career goal"
+  ],
+  "roadmap": "1. Learn TypeScript fundamentals and practice building small projects\n2. Study and implement Redux in a personal project\n3. Practice building REST APIs with Node.js and Express.js\n4. Learn about testing frameworks like Jest and Enzyme\n5. Build a personal project that integrates all the required skills",
+  "createdAt": {
+    "$date": "2026-08-05T13:39:37.926Z"
+  },
+  "updatedAt": {
+    "$date": "2026-08-05T13:39:37.926Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a734627cadfbb2ba8d1823f"
+  },
+  "userId": {
+    "$oid": "6a72384280c8ae9fb0c5e89f"
+  },
+  "resumeId": {
+    "$oid": "6a73460acadfbb2ba8d1823a"
+  },
+  "jobTitle": "Product Manager",
+  "jobDescription": "Required skills for Product Manager: Product Roadmap, Agile, Scrum, User Stories, Stakeholder Management, Data Analysis, SQL, Jira, A/B Testing, Market Research, OKRs, Prioritization, Go-to-Market Strategy.\n\nAdditional job details:\n💼 Job Title: Junior Software Developer / MERN Stack Developer (Fresher)\n\nJob Description:\n\nA motivated and detail-oriented Computer Science graduate with hands-on experience in developing web applications using the MERN stack (MongoDB, Express.js, React.js, Node.js). Skilled in building responsive user interfaces, integrating REST APIs, and working collaboratively with backend teams to ensure seamless functionality and performance.\n\nKey Responsibilities:\n\nDevelop and maintain web applications using React.js and Node.js\nDesign and implement RESTful APIs using Express.js\nWork with MongoDB for database design and data management\nBuild responsive and user-friendly UI using HTML, CSS, Tailwind/Bootstrap\nCollaborate with backend teams to integrate APIs efficiently\nDebug, test, and optimize applications for performance\nParticipate in code reviews and follow best coding practices\n\nSkills:\n\nFrontend: React.js, JavaScript (ES6+), HTML, CSS\nBackend: Node.js, Express.js\nDatabase: MongoDB\nTools: Git, GitHub, Postman, Vite\nBasic understanding of authentication (JWT), APIs, and deployment\n\nExperience:\n\nUI Intern (Angular) at Tech Mahindra\n– Developed responsive UI components and integrated APIs with backend services\n\nProjects:\n\nCriminal Record Detection System (Image Processing based)\nMERN-based Web Applications\n\nSoft Skills:\n\nProblem-solving mindset\nQuick learner\nTeam collaboration\nAdaptability",
+  "experienceLevel": "fresher",
+  "matchPercentage": 0,
+  "matchedSkills": [],
+  "missingSkills": [
+    "Product Roadmap",
+    "Agile",
+    "Scrum",
+    "User Stories",
+    "Stakeholder Management",
+    "Data Analysis",
+    "SQL",
+    "Jira",
+    "A/B Testing",
+    "Market Research",
+    "OKRs",
+    "Prioritization",
+    "Go-to-Market Strategy"
+  ],
+  "skills": [
+    "C",
+    "C++",
+    "JavaScript",
+    "React.js",
+    "Angular",
+    "Node.js",
+    "Express.js",
+    "MongoDB",
+    "MySql",
+    "Python",
+    "RESTAPIs",
+    "CRUDOperations",
+    "ResponsiveDesign",
+    "Git",
+    "Postman",
+    "Tablaue",
+    "Figma",
+    "HTML5",
+    "CSS3",
+    "JWT",
+    "Nodemailer",
+    "TailwindCSS",
+    "GroqAI",
+    "A*pathfinding",
+    "ML-basedcongestionprediction",
+    "bcryptpasswordhashing"
+  ],
+  "projects": [
+    "AI-PoweredPoetry&StoryGenerator",
+    "SmartTrafficAI"
+  ],
+  "strongPoints": [
+    "Strong React experience with multiple projects",
+    "Has REST API integration experience",
+    "Experience with frontend and full-stack web development"
+  ],
+  "weakPoints": [
+    "No experience with Product Management skills",
+    "Missing experience with SQL and database management",
+    "No experience with Jira or project management tools"
+  ],
+  "resumeSuggestions": [
+    "Add a section for Product Management experience or relevant coursework",
+    "Include specific examples of data analysis or SQL experience",
+    "Add a section for certifications or training in Product Management tools like Jira",
+    "Emphasize transferable skills from web development to Product Management",
+    "Include a personal statement or summary at the top highlighting relevant skills and experience",
+    "Add links to personal projects or GitHub repositories"
+  ],
+  "roadmap": "1. Take online courses or certification programs in Product Management to learn about Product Roadmap, Agile, and Scrum.\n2. Practice using Jira or similar project management tools to gain experience with Stakeholder Management and Prioritization.\n3. Learn SQL and data analysis skills through online tutorials or coursework.\n4. Participate in hackathons or group projects to gain experience with User Stories, A/B Testing, and Market Research.\n5. Read books or articles on OKRs and Go-to-Market Strategy to gain a deeper understanding of these concepts.\n6. Network with professionals in the field to learn more about the day-to-day responsibilities of a Product Manager and gain insights into the industry.",
+  "createdAt": {
+    "$date": "2026-08-05T14:18:15.905Z"
+  },
+  "updatedAt": {
+    "$date": "2026-08-05T14:18:15.905Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a7346eacadfbb2ba8d1824d"
+  },
+  "userId": {
+    "$oid": "6a72384280c8ae9fb0c5e89f"
+  },
+  "resumeId": {
+    "$oid": "6a7346dfcadfbb2ba8d18248"
+  },
+  "jobTitle": "Frontend Developer (React)",
+  "jobDescription": "Required skills for Frontend Developer (React): React, JavaScript, TypeScript, HTML5, CSS3, Redux, Tailwind CSS, REST APIs, Git, Webpack, Vite, Jest, Responsive Design, React Router, Axios.\n\nAdditional job details:\n0%\nmatch\nLow match\n← Dashboard\nProduct Manager\nSakshamResume.pdf\n\nFresher · 0 yrs\nAug 5, 2026\n\n0\n\nMatched\n\n13\n\nMissing\n\n26\n\nTotal Skills\n\n3\n\nStrengths\n\nPDF\n\n📊\nOverview\n\n💪\nStrengths\n\n🛠️\nSkills\n\n✏️\nImprove CV\n\n🗺️\nRoadmap\nALL SKILLS FROM YOUR RESUME\n\nC\nC++\nJavaScript\nReact.js\nAngular\nNode.js\nExpress.js\nMongoDB\nMySql\nPython\nRESTAPIs\nCRUDOperations\nResponsiveDesign\nGit\nPostman\nTablaue\nFigma\nHTML5\nCSS3\nJWT\nNodemailer\nTailwindCSS\nGroqAI\nA*pathfinding\nML-basedcongestionprediction\nbcryptpasswordhashing",
+  "experienceLevel": "fresher",
+  "matchPercentage": 53,
+  "matchedSkills": [
+    "React",
+    "JavaScript",
+    "HTML5",
+    "CSS3",
+    "Tailwind CSS",
+    "REST APIs",
+    "Git",
+    "Responsive Design"
+  ],
+  "missingSkills": [
+    "TypeScript",
+    "Redux",
+    "Webpack",
+    "Vite",
+    "Jest",
+    "React Router",
+    "Axios"
+  ],
+  "skills": [
+    "C",
+    "C++",
+    "JavaScript",
+    "React.js",
+    "Angular",
+    "Node.js",
+    "Express.js",
+    "MongoDB",
+    "MySql",
+    "Python",
+    "REST APIs",
+    "CRUD Operations",
+    "Responsive Design",
+    "Git",
+    "Postman",
+    "Tablaue",
+    "Figma",
+    "HTML5",
+    "CSS3",
+    "JWT",
+    "Nodemailer",
+    "Tailwind CSS",
+    "Groq AI",
+    "A* pathfinding",
+    "ML-based congestion prediction",
+    "bcrypt password hashing"
+  ],
+  "projects": [
+    "AI-Powered Poetry & Story Generator",
+    "Smart Traffic AI"
+  ],
+  "strongPoints": [
+    "Strong React experience with 2 projects",
+    "Has REST API integration experience",
+    "Experience with Responsive Design and Tailwind CSS"
+  ],
+  "weakPoints": [
+    "No testing experience mentioned",
+    "No experience with Redux, Webpack, or Jest",
+    "Limited experience with backend technologies for this role",
+    "No mention of TypeScript skills",
+    "No experience with React Router or Axios"
+  ],
+  "resumeSuggestions": [
+    "Add a personal projects section with GitHub links",
+    "Include an internship or freelance experience section with more details",
+    "Add measurable achievements like 'improved load time by 40%'",
+    "Add a certifications section with relevant certifications",
+    "Include a professional summary at the top with a focus on React and frontend development",
+    "Consider adding a section for technical skills with proficiency levels"
+  ],
+  "roadmap": "1. Learn TypeScript fundamentals and practice building small projects\n2. Study Redux and its application in React projects\n3. Familiarize yourself with Webpack, Vite, and Jest for testing and building React applications\n4. Practice building projects with React Router and Axios\n5. Learn about responsive design principles and accessibility guidelines\n6. Build personal projects to demonstrate skills and experience",
+  "createdAt": {
+    "$date": "2026-08-05T14:21:30.863Z"
+  },
+  "updatedAt": {
+    "$date": "2026-08-05T14:21:30.863Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a734bc1cadfbb2ba8d1826d"
+  },
+  "userId": {
+    "$oid": "6a72384280c8ae9fb0c5e89f"
+  },
+  "resumeId": {
+    "$oid": "6a734ba2cadfbb2ba8d18268"
+  },
+  "jobTitle": "PHP Developer",
+  "jobDescription": "Required skills for PHP Developer: PHP, Laravel, MySQL, REST APIs, JavaScript, HTML, CSS, Git, Composer, Redis, Blade Templates.\n\nAdditional job details:\n💼 Job Title: Junior Software Developer / MERN Stack Developer (Fresher)\n\nJob Description:\n\nA motivated and detail-oriented Computer Science graduate with hands-on experience in developing web applications using the MERN stack (MongoDB, Express.js, React.js, Node.js). Skilled in building responsive user interfaces, integrating REST APIs, and working collaboratively with backend teams to ensure seamless functionality and performance.\n\nKey Responsibilities:\n\nDevelop and maintain web applications using React.js and Node.js\nDesign and implement RESTful APIs using Express.js\nWork with MongoDB for database design and data management\nBuild responsive and user-friendly UI using HTML, CSS, Tailwind/Bootstrap\nCollaborate with backend teams to integrate APIs efficiently\nDebug, test, and optimize applications for performance\nParticipate in code reviews and follow best coding practices\n\nSkills:\n\nFrontend: React.js, JavaScript (ES6+), HTML, CSS\nBackend: Node.js, Express.js\nDatabase: MongoDB\nTools: Git, GitHub, Postman, Vite\nBasic understanding of authentication (JWT), APIs, and deployment\n\nExperience:\n\nUI Intern (Angular) at Tech Mahindra\n– Developed responsive UI components and integrated APIs with backend services\n\nProjects:\n\nCriminal Record Detection System (Image Processing based)\nMERN-based Web Applications\n\nSoft Skills:\n\nProblem-solving mindset\nQuick learner\nTeam collaboration\nAdaptability",
+  "experienceLevel": "fresher",
+  "matchPercentage": 55,
+  "matchedSkills": [
+    "MySQL",
+    "REST APIs",
+    "JavaScript",
+    "HTML",
+    "CSS",
+    "Git"
+  ],
+  "missingSkills": [
+    "PHP",
+    "Laravel",
+    "Composer",
+    "Redis",
+    "Blade Templates"
+  ],
+  "skills": [
+    "C",
+    "C++",
+    "JavaScript",
+    "HTML5",
+    "CSS3",
+    "React.js",
+    "Angular",
+    "Node.js",
+    "Express.js",
+    "MongoDB",
+    "MySql",
+    "Python",
+    "REST APIs",
+    "CRUD Operations",
+    "Responsive Design",
+    "Git",
+    "Postman",
+    "Tablaue",
+    "Figma",
+    "JWT",
+    "Nodemailer",
+    "TailwindCSS"
+  ],
+  "projects": [
+    "AI-Powered Poetry & Story Generator",
+    "Smart Traffic AI"
+  ],
+  "strongPoints": [
+    "Strong React experience with 2 projects",
+    "Has REST API integration experience",
+    "Proficient in building responsive user interfaces"
+  ],
+  "weakPoints": [
+    "No PHP or Laravel experience mentioned",
+    "Missing backend skills for this role",
+    "No experience with MySQL, Redis, or Blade Templates"
+  ],
+  "resumeSuggestions": [
+    "Add a personal projects section with GitHub links",
+    "Include an internship or freelance experience section with specific achievements",
+    "Add measurable achievements like 'improved load time by 40%'",
+    "Add a certifications section for relevant courses or training",
+    "Include a professional summary at the top highlighting relevant skills"
+  ],
+  "roadmap": "1. Start with learning PHP basics and Laravel framework\n2. Practice building small projects using PHP and Laravel\n3. Learn MySQL database management and integration with PHP\n4. Study Redis and its application in caching and session management\n5. Familiarize yourself with Blade Templates and its usage in Laravel\n6. Work on building a personal project that incorporates all the required skills",
+  "createdAt": {
+    "$date": "2026-08-05T14:42:09.088Z"
+  },
+  "updatedAt": {
+    "$date": "2026-08-05T14:42:09.088Z"
+  },
+  "__v": 0
+}]
