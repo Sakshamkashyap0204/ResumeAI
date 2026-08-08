@@ -5,5 +5,22 @@
     "server": "cd server && npm run dev",
     "client": "cd client && npm run dev",
     "dev": "start cmd /k \"cd server && npm run dev\" && start cmd /k \"cd client && npm run dev\""
+  },
+  "description": "A full-stack MERN application that analyzes your resume against any job role using Groq AI, gives you a match score, skill gap analysis, strengths/weaknesses, improvement suggestions, a learning roadmap, and live job listings — all in one place.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sakshamkashyap0204/ResumeAI.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Sakshamkashyap0204/ResumeAI/issues"
+  },
+  "homepage": "https://github.com/Sakshamkashyap0204/ResumeAI#readme",
+  "dependencies": {
+    "mongodb": "^7.5.0"
   }
 }
