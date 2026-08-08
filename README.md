@@ -199,19 +199,23 @@ npm run dev
 
 ## 🌐 Deployment
 
-### Backend → Render
-- Connect your GitHub repo to [render.com](https://render.com)
-- Set root directory to `server`
-- Build command: `npm install`
-- Start command: `node index.js`
-- Add all environment variables from `server/.env`
+### Deploy frontend and backend on Render
 
-### Frontend → Vercel
-- Connect your GitHub repo to [vercel.com](https://vercel.com)
-- Set root directory to `client`
-- Build command: `npm run build`
-- Output directory: `dist`
-- Add `VITE_API_URL` pointing to your Render backend URL
+This repository includes `render.yaml`, which creates both services:
+
+- `ai-resume-analyzer-api` — the Node/Express backend
+- `ai-resume-analyzer-web` — the React static frontend
+
+Before deploying, create a free MongoDB Atlas database and copy its connection string. In Atlas, allow access from anywhere (`0.0.0.0/0`) for this beginner deployment.
+
+Then:
+
+1. Sign in at [Render](https://render.com) with GitHub.
+2. Click **New** → **Blueprint**, select this repository, and click **Apply**.
+3. When Render requests the backend secrets, enter `MONGO_URI`, `EMAIL_USER`, `EMAIL_PASS` (a Gmail App Password), and `GROQ_API_KEY`. Do not enter these values in GitHub.
+4. Wait for both services to finish deploying, then open the `ai-resume-analyzer-web` URL.
+
+The local project continues to work after deployment. Keep `client/.env` set to `VITE_API_URL=http://localhost:5000/api`, start MongoDB, then run the server and client as described above.
 
 ---
 

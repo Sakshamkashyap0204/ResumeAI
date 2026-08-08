@@ -1,24 +1,40 @@
 services:
   - type: web
     name: ai-resume-analyzer-api
-    env: node
+    runtime: node
+    plan: free
     rootDir: server
-    buildCommand: npm install
+    buildCommand: npm ci
     startCommand: npm start
+    healthCheckPath: /api/health
     envVars:
-      - key: PORT
-        value: 5000
+      - key: NODE_ENV
+        value: production
       - key: MONGO_URI
         sync: false
       - key: JWT_SECRET
-        sync: false
+        generateValue: true
       - key: JWT_EXPIRES_IN
         value: 7d
       - key: EMAIL_USER
         sync: false
       - key: EMAIL_PASS
         sync: false
-      - key: GEMINI_API_KEY
+      - key: GROQ_API_KEY
         sync: false
       - key: CLIENT_URL
-        sync: false
+        value: https://ai-resume-analyzer-web.onrender.com
+
+  - type: web
+    name: ai-resume-analyzer-web
+    runtime: static
+    rootDir: client
+    buildCommand: npm ci && npm run build
+    staticPublishPath: ./client/dist
+    envVars:
+      - key: VITE_API_URL
+        value: https://ai-resume-analyzer-api.onrender.com/api
+    routes:
+      - type: rewrite
+        source: /*
+        destination: /index.html
