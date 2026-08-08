@@ -10,16 +10,21 @@ const app = express();
 connectDB();
 
 const localOrigins = ['http://localhost:5173', 'http://127.0.0.1:5173'];
-const configuredOrigins = (process.env.CLIENT_URL || '')
+// CLIENT_URL supports one or more comma-separated deployed frontend URLs.
+// CORS_ORIGINS is an optional alias that makes the deployment setting explicit.
+const configuredOrigins = [process.env.CLIENT_URL, process.env.CORS_ORIGINS]
+  .filter(Boolean)
+  .join(',')
   .split(',')
-  .map((origin) => origin.trim())
+  .map((origin) => origin.trim().replace(/\/$/, ''))
   .filter(Boolean);
 const allowedOrigins = new Set([...localOrigins, ...configuredOrigins]);
 
 app.use(cors({
   origin(origin, callback) {
     // Requests without an Origin header (for example Render health checks) are safe.
-    if (!origin || allowedOrigins.has(origin)) return callback(null, true);
+    const normalizedOrigin = origin?.replace(/\/$/, '');
+    if (!normalizedOrigin || allowedOrigins.has(normalizedOrigin)) return callback(null, true);
     return callback(new Error(`Origin ${origin} is not allowed by CORS`));
   },
   credentials: true,
