@@ -84,10 +84,7 @@ exports.login = async (req, res) => {
   if (!user || !(await user.comparePassword(password)))
     return res.status(401).json({ message: 'Invalid credentials' });
   if (!user.isVerified)
-    return res.status(403).json({
-      message: 'Please verify your email first',
-      userId: user._id,
-    });
+    return res.status(403).json({ message: 'Please verify your email first' });
 
   const token = signToken(user._id);
   res.json({ token, user: { id: user._id, name: user.name, email: user.email } });

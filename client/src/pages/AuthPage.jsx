@@ -62,15 +62,6 @@ export default function AuthPage() {
         toast.success('OTP sent to your email!');
       }
     } catch (err) {
-      // A 403 here means the password was correct but the account still needs OTP verification.
-      // Move the user into the existing verification flow instead of treating it as a dead end.
-      if (mode === 'login' && err.response?.status === 403 && err.response.data?.userId) {
-        setUserId(err.response.data.userId);
-        setOtp('');
-        setMode('otp');
-        toast('Verify your email to continue. You can resend the code below.');
-        return;
-      }
       toast.error(err.response?.data?.message || 'Something went wrong');
     } finally {
       setLoading(false);
