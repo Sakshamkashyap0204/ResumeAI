@@ -50,7 +50,37 @@ exports.login = async (req, res) => {
   res.json({ token, user: { id: user._id, name: user.name, email: user.email } });
 };
 
-exports.resendOTP = async (req, res) => {
+exports.updateProfile = async (req, res) => {
+  const { name, email } = req.body;
+  const user = req.user;
+
+  if (email && email !== user.email) {
+    const exists = await User.findOne({ email });
+    if (exists) return res.status(400).json({ message: 'Email already in use' });
+    user.email = email;
+  }
+  if (name) user.name = name;
+  await user.save();
+
+  res.json({ user: { id: user._id, name: user.name, email: user.email } });
+};
+
+exports.changePassword = async (req, res) => {
+  const { currentPassword, newPassword } = req.body;
+  const user = await User.findById(req.user._id);
+
+  if (!(await user.comparePassword(currentPassword)))
+    return res.status(400).json({ message: 'Current password is incorrect' });
+
+  user.password = newPassword;
+  await user.save();
+  res.json({ message: 'Password updated successfully' });
+};
+
+exports.deleteAccount = async (req, res) => {
+  await User.findByIdAndDelete(req.user._id);
+  res.json({ message: 'Account deleted' });
+};
   const { userId } = req.body;
   const user = await User.findById(userId);
   if (!user) return res.status(404).json({ message: 'User not found' });

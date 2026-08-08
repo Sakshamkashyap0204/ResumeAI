@@ -14,6 +14,9 @@ export const signup = (data) => api.post('/auth/signup', data);
 export const verifyOTP = (data) => api.post('/auth/verify-otp', data);
 export const resendOTP = (data) => api.post('/auth/resend-otp', data);
 export const login = (data) => api.post('/auth/login', data);
+export const updateProfile = (data) => api.put('/auth/profile', data);
+export const changePassword = (data) => api.put('/auth/change-password', data);
+export const deleteAccount = () => api.delete('/auth/delete-account');
 
 // Resume APIs
 export const uploadResume = (formData) =>
