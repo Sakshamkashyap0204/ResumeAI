@@ -13,7 +13,14 @@ exports.signup = async (req, res) => {
   const otp = generateOTP();
   const otpExpiry = new Date(Date.now() + 5 * 60 * 1000);
 
-  const user = await User.create({ name, email, password, otp, otpExpiry });
+  const user = await User.create({
+  name,
+  email,
+  password,
+  otp,
+  otpExpiry,
+  isVerified: true   // ✅ ADD THIS
+   });
   await sendOTPEmail(email, otp);
 
   res.status(201).json({ message: 'OTP sent to email', userId: user._id });
