@@ -1,6 +1,8 @@
 import axios from 'axios';
 
-const api = axios.create({ baseURL: import.meta.env.VITE_API_URL });
+// Vite proxies this path to the local backend during development. A deployed
+// frontend should still provide VITE_API_URL with its production API URL.
+const api = axios.create({ baseURL: import.meta.env.VITE_API_URL || '/api' });
 
 // Attach token to every request
 api.interceptors.request.use((config) => {
