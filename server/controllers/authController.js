@@ -19,7 +19,7 @@ exports.signup = async (req, res) => {
   password,
   otp,
   otpExpiry,
-  isVerified: true   // ✅ ADD THIS
+  isVerified: false
    });
   await sendOTPEmail(email, otp);
 

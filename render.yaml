@@ -1,13 +1,14 @@
 services:
   - type: web
-    name: ai-resume-analyzer-api
+    name: resumeai
     runtime: node
     plan: free
-    rootDir: server
-    buildCommand: npm ci
+    buildCommand: npm run build
     startCommand: npm start
     healthCheckPath: /api/health
     envVars:
+      - key: NODE_VERSION
+        value: 22.14.0
       - key: NODE_ENV
         value: production
       - key: MONGO_URI
@@ -22,19 +23,3 @@ services:
         sync: false
       - key: GROQ_API_KEY
         sync: false
-      - key: CLIENT_URL
-        value: https://ai-resume-analyzer-web.onrender.com
-
-  - type: web
-    name: ai-resume-analyzer-web
-    runtime: static
-    rootDir: client
-    buildCommand: npm ci && npm run build
-    staticPublishPath: ./client/dist
-    envVars:
-      - key: VITE_API_URL
-        value: https://ai-resume-analyzer-api.onrender.com/api
-    routes:
-      - type: rewrite
-        source: /*
-        destination: /index.html

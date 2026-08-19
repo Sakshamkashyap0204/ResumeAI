@@ -60,7 +60,7 @@ AI resume/
 │
 ├── .gitignore
 ├── package.json             # Root scripts
-└── render.yaml              # Render deployment config
+└── README.md
 ```
 
 ---
@@ -143,7 +143,7 @@ cp .env.example .env
 Fill in `client/.env`:
 
 ```env
-VITE_API_URL=http://localhost:5000/api
+VITE_API_URL=/api
 ```
 
 Start the frontend:
@@ -187,7 +187,7 @@ npm run dev
 
 | Variable        | Description              |
 |-----------------|--------------------------|
-| `VITE_API_URL`  | Backend API base URL     |
+| `VITE_API_URL`  | Relative API path (`/api`) forwarded by Vite locally |
 
 ---
 
@@ -197,27 +197,18 @@ npm run dev
 
 ---
 
-## 🌐 Deployment
+## Deployment on Render
 
-### Deploy frontend and backend on Render
+This project is configured to deploy as one Render web service. Express serves the compiled React application and the API under the same domain, so the frontend continues to use `/api` without a production CORS configuration.
 
-This repository includes `render.yaml`, which creates both services:
+1. Push this project, including `render.yaml`, to a GitHub repository.
+2. In the Render dashboard, select **New** -> **Blueprint** and choose that repository.
+3. Enter values for `MONGO_URI`, `EMAIL_USER`, `EMAIL_PASS`, and `GROQ_API_KEY` when prompted. Use a Gmail App Password for `EMAIL_PASS`.
+4. Create the Blueprint and wait for the deployment to finish. Render will provide the public URL.
 
-- `ai-resume-analyzer-api` — the Node/Express backend
-- `ai-resume-analyzer-web` — the React static frontend
+For MongoDB Atlas, allow the Render service to reach the database and use its connection string for `MONGO_URI`. Do not commit `.env` files or deployment secrets.
 
-Before deploying, create a free MongoDB Atlas database and copy its connection string. In Atlas, allow access from anywhere (`0.0.0.0/0`) for this beginner deployment.
-
-Then:
-
-1. Sign in at [Render](https://render.com) with GitHub.
-2. Click **New** → **Blueprint**, select this repository, and click **Apply**.
-3. When Render requests the backend secrets, enter `MONGO_URI`, `EMAIL_USER`, `EMAIL_PASS` (a Gmail App Password), and `GROQ_API_KEY`. Do not enter these values in GitHub.
-4. Wait for both services to finish deploying, then open the `ai-resume-analyzer-web` URL.
-
-The local project continues to work after deployment. Keep `client/.env` set to `VITE_API_URL=http://localhost:5000/api`, start MongoDB, then run the server and client as described above.
-
----
+The free Render plan can sleep while idle, so the first request after inactivity may take longer. Uploaded PDFs are used for text extraction; raw upload files are not durable across service restarts, while account and analysis data are stored in MongoDB.
 
 ## 📄 License
 
