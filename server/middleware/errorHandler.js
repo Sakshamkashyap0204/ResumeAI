@@ -7,6 +7,8 @@ const errorHandler = (err, req, res, next) => {
     message = 'AI service authentication failed. Check the GROQ_API_KEY configuration.';
   } else if (err.status === 429) {
     message = 'AI analysis is temporarily rate-limited. Please try again in a moment.';
+  } else if (status === 503) {
+    message = 'We could not send the verification email. Please try again shortly.';
   } else if (/model .*does not exist|model .*not found/i.test(err.message || '')) {
     message = 'The configured AI model is unavailable. Please contact support or try again later.';
   }
