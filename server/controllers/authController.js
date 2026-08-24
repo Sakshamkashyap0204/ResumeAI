@@ -8,19 +8,34 @@ const signToken = (id) =>
 exports.signup = async (req, res) => {
   const { name, email, password } = req.body;
   const existing = await User.findOne({ email });
-  if (existing) return res.status(400).json({ message: 'Email already registered' });
+
+  // Let a user who left before OTP verification resume signup without creating
+  // a duplicate account. Verified accounts must use the login form instead.
+  if (existing) {
+    if (existing.isVerified) {
+      return res.status(400).json({ message: 'This email is already registered. Please log in.' });
+    }
+
+    const otp = generateOTP();
+    existing.otp = otp;
+    existing.otpExpiry = new Date(Date.now() + 5 * 60 * 1000);
+    await existing.save();
+    await sendOTPEmail(existing.email, otp);
+
+    return res.json({ message: 'A new OTP was sent to your email', userId: existing._id });
+  }
 
   const otp = generateOTP();
   const otpExpiry = new Date(Date.now() + 5 * 60 * 1000);
 
   const user = await User.create({
-  name,
-  email,
-  password,
-  otp,
-  otpExpiry,
-  isVerified: false
-   });
+    name,
+    email,
+    password,
+    otp,
+    otpExpiry,
+    isVerified: false,
+  });
   await sendOTPEmail(email, otp);
 
   res.status(201).json({ message: 'OTP sent to email', userId: user._id });
@@ -93,6 +108,7 @@ exports.resendOTP = async (req, res) => {
   const { userId } = req.body;
   const user = await User.findById(userId);
   if (!user) return res.status(404).json({ message: 'User not found' });
+  if (user.isVerified) return res.status(400).json({ message: 'This email is already verified. Please log in.' });
 
   const otp = generateOTP();
   user.otp = otp;
