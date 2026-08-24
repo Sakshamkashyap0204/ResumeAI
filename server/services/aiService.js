@@ -1,6 +1,7 @@
 const Groq = require('groq-sdk');
 
 const groq = new Groq({ apiKey: process.env.GROQ_API_KEY });
+const model = process.env.GROQ_MODEL || 'openai/gpt-oss-120b';
 
 const analyzeResume = async (resumeText, jobDescription, requiredSkills = [], experienceLevel = 'fresher') => {
   if (!resumeText || resumeText.trim().length < 50)
@@ -11,7 +12,7 @@ const analyzeResume = async (resumeText, jobDescription, requiredSkills = [], ex
     : '';
 
   const completion = await groq.chat.completions.create({
-    model: 'llama-3.3-70b-versatile',
+    model,
     messages: [
       {
         role: 'system',

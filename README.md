@@ -26,7 +26,7 @@ A full-stack MERN application that analyzes your resume against any job role usi
 | Frontend  | React 18, Vite, Tailwind CSS            |
 | Backend   | Node.js, Express.js                     |
 | Database  | MongoDB (local or Atlas)                |
-| AI        | Groq API (`llama-3.3-70b-versatile`)    |
+| AI        | Groq API (`openai/gpt-oss-120b`)         |
 | Auth      | JWT + bcrypt                            |
 | Email     | Nodemailer (Gmail SMTP)                 |
 | PDF Parse | pdf-parse                               |
@@ -181,6 +181,7 @@ npm run dev
 | `EMAIL_USER`   | Gmail address for OTP emails            |
 | `EMAIL_PASS`   | Gmail App Password (16-char, no spaces) |
 | `GROQ_API_KEY` | Groq API key (`gsk_...`)                |
+| `GROQ_MODEL` | Groq model (default: `openai/gpt-oss-120b`) |
 | `CLIENT_URL`   | Frontend URL for CORS                   |
 
 ### `client/.env`
