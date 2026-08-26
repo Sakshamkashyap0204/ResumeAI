@@ -2,6 +2,7 @@ require('dotenv').config();
 require('express-async-errors');
 const express = require('express');
 const cors = require('cors');
+const mongoose = require('mongoose');
 const fs = require('fs');
 const path = require('path');
 const connectDB = require('./config/db');
@@ -33,7 +34,10 @@ app.use(cors((req, callback) => {
 }));
 app.use(express.json());
 
-app.get('/api/health', (req, res) => res.json({ status: 'ok' }));
+app.get('/api/health', (req, res) => {
+  const ready = mongoose.connection.readyState === 1;
+  res.status(ready ? 200 : 503).json({ status: ready ? 'ok' : 'starting' });
+});
 app.use('/api/auth', require('./routes/authRoutes'));
 app.use('/api/resume', require('./routes/resumeRoutes'));
 app.use('/api/results', require('./routes/resultRoutes'));
@@ -48,12 +52,9 @@ if (fs.existsSync(clientBuildPath)) {
 app.use(errorHandler);
 
 const PORT = process.env.PORT || 5000;
-const startServer = async () => {
-  await connectDB();
-  app.listen(PORT, () => console.log(`Server running on port ${PORT}`));
-};
-
-startServer().catch((err) => {
-  console.error('Server startup failed:', err.message);
-  process.exit(1);
+app.listen(PORT, () => {
+  console.log(`Server running on port ${PORT}`);
+  connectDB().catch(() => {
+    console.error('MongoDB is unavailable; API requests requiring the database will fail until it reconnects.');
+  });
 });
