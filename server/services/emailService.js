@@ -1,15 +1,16 @@
 const nodemailer = require('nodemailer');
 
-const emailUser = process.env.EMAIL_USER;
+const stripWrappingQuotes = (value = '') => value.trim().replace(/^(["'])(.*)\1$/, '$2');
+const emailUser = stripWrappingQuotes(process.env.EMAIL_USER);
 // Gmail displays App Passwords in groups of four characters. Spaces pasted
 // from that display are not part of the credential.
-const emailPass = process.env.EMAIL_PASS?.replace(/\s/g, '');
+const emailPass = stripWrappingQuotes(process.env.EMAIL_PASS).replace(/\s/g, '');
 
 const isEmailConfigured = () => Boolean(emailUser && emailPass);
 
 const transporter = nodemailer.createTransport({
-  host: process.env.SMTP_HOST || 'smtp.gmail.com',
-  port: Number(process.env.SMTP_PORT || 587),
+  host: stripWrappingQuotes(process.env.SMTP_HOST || 'smtp.gmail.com'),
+  port: Number(stripWrappingQuotes(process.env.SMTP_PORT || '587')),
   secure: process.env.SMTP_SECURE === 'true',
   auth: { user: emailUser, pass: emailPass },
 });
@@ -38,7 +39,12 @@ const sendOTPEmail = async (email, otp) => {
       `,
     });
   } catch (cause) {
-    console.error('OTP email delivery failed:', cause.message);
+    console.error('OTP email delivery failed:', {
+      message: cause.message,
+      code: cause.code,
+      responseCode: cause.responseCode,
+      command: cause.command,
+    });
     const error = new Error('We could not send the verification email. Please try again shortly.');
     error.statusCode = 503;
     throw error;
