@@ -9,8 +9,6 @@ const errorHandler = require('./middleware/errorHandler');
 
 const app = express();
 
-connectDB();
-
 const configuredOrigins = [process.env.CLIENT_URL, process.env.RENDER_EXTERNAL_URL]
   .filter(Boolean)
   .join(',')
@@ -50,4 +48,12 @@ if (fs.existsSync(clientBuildPath)) {
 app.use(errorHandler);
 
 const PORT = process.env.PORT || 5000;
-app.listen(PORT, () => console.log(`Server running on port ${PORT}`));
+const startServer = async () => {
+  await connectDB();
+  app.listen(PORT, () => console.log(`Server running on port ${PORT}`));
+};
+
+startServer().catch((err) => {
+  console.error('Server startup failed:', err.message);
+  process.exit(1);
+});

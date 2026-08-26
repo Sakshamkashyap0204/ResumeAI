@@ -1,12 +1,23 @@
 const jwt = require('jsonwebtoken');
 const User = require('../models/User');
-const { generateOTP, sendOTPEmail } = require('../services/emailService');
+const { generateOTP, sendOTPEmail, isEmailConfigured } = require('../services/emailService');
 
 const signToken = (id) =>
   jwt.sign({ id }, process.env.JWT_SECRET, { expiresIn: process.env.JWT_EXPIRES_IN });
 
 exports.signup = async (req, res) => {
   const { name, email, password } = req.body;
+
+  if (!name?.trim() || !email?.trim() || !password) {
+    return res.status(400).json({ message: 'Name, email, and password are required.' });
+  }
+  if (password.length < 6) {
+    return res.status(400).json({ message: 'Password must be at least 6 characters.' });
+  }
+  if (!isEmailConfigured()) {
+    return res.status(503).json({ message: 'Email verification is temporarily unavailable. Please try again later.' });
+  }
+
   const existing = await User.findOne({ email });
 
   // Let a user who left before OTP verification resume signup without creating

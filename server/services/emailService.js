@@ -5,6 +5,8 @@ const emailUser = process.env.EMAIL_USER;
 // from that display are not part of the credential.
 const emailPass = process.env.EMAIL_PASS?.replace(/\s/g, '');
 
+const isEmailConfigured = () => Boolean(emailUser && emailPass);
+
 const transporter = nodemailer.createTransport({
   host: process.env.SMTP_HOST || 'smtp.gmail.com',
   port: Number(process.env.SMTP_PORT || 587),
@@ -15,7 +17,7 @@ const transporter = nodemailer.createTransport({
 const generateOTP = () => Math.floor(100000 + Math.random() * 900000).toString();
 
 const sendOTPEmail = async (email, otp) => {
-  if (!emailUser || !emailPass) {
+  if (!isEmailConfigured()) {
     const error = new Error('Email delivery is not configured. Set EMAIL_USER and EMAIL_PASS.');
     error.statusCode = 503;
     throw error;
@@ -43,4 +45,4 @@ const sendOTPEmail = async (email, otp) => {
   }
 };
 
-module.exports = { generateOTP, sendOTPEmail };
+module.exports = { generateOTP, sendOTPEmail, isEmailConfigured };
