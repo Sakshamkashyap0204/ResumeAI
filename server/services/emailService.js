@@ -5,13 +5,14 @@ const emailUser = stripWrappingQuotes(process.env.EMAIL_USER);
 // Gmail displays App Passwords in groups of four characters. Spaces pasted
 // from that display are not part of the credential.
 const emailPass = stripWrappingQuotes(process.env.EMAIL_PASS).replace(/\s/g, '');
+const smtpSecure = stripWrappingQuotes(process.env.SMTP_SECURE || 'false').toLowerCase() === 'true';
 
 const isEmailConfigured = () => Boolean(emailUser && emailPass);
 
 const transporter = nodemailer.createTransport({
   host: stripWrappingQuotes(process.env.SMTP_HOST || 'smtp.gmail.com'),
   port: Number(stripWrappingQuotes(process.env.SMTP_PORT || '587')),
-  secure: process.env.SMTP_SECURE === 'true',
+  secure: smtpSecure,
   auth: { user: emailUser, pass: emailPass },
 });
 
