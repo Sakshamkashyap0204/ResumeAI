@@ -180,6 +180,8 @@ npm run dev
 | `JWT_EXPIRES_IN` | Token expiry (e.g. `7d`)              |
 | `EMAIL_USER`   | Gmail address for OTP emails            |
 | `EMAIL_PASS`   | Gmail App Password (16-char, no spaces) |
+| `RESEND_API_KEY` | Resend API key for HTTPS email delivery (recommended on Render) |
+| `EMAIL_FROM` | Verified sender address, for example `ResumeAI <noreply@example.com>` |
 | `GROQ_API_KEY` | Groq API key (`gsk_...`)                |
 | `GROQ_MODEL` | Groq model (default: `openai/gpt-oss-120b`) |
 | `CLIENT_URL`   | Frontend URL for CORS                   |
@@ -204,7 +206,7 @@ This project is configured to deploy as one Render web service. Express serves t
 
 1. Push this project, including `render.yaml`, to a GitHub repository.
 2. In the Render dashboard, select **New** -> **Blueprint** and choose that repository.
-3. Enter values for `MONGO_URI`, `EMAIL_USER`, `EMAIL_PASS`, and `GROQ_API_KEY` when prompted. Use a Gmail App Password for `EMAIL_PASS`.
+3. Enter values for `MONGO_URI`, `RESEND_API_KEY`, `EMAIL_FROM`, and `GROQ_API_KEY` when prompted. Resend uses HTTPS and avoids SMTP connection restrictions on hosted services. `EMAIL_USER` and `EMAIL_PASS` remain available as a local SMTP fallback.
 4. Create the Blueprint and wait for the deployment to finish. Render will provide the public URL.
 
 For MongoDB Atlas, allow the Render service to reach the database and use its connection string for `MONGO_URI`. Do not commit `.env` files or deployment secrets.
