@@ -42,6 +42,7 @@ const parseSender = () => {
 
 const sendViaBrevo = async (email, otp) => {
   const sender = parseSender();
+  const { subject, html } = getOTPEmail(otp);
   const response = await fetch('https://api.brevo.com/v3/smtp/email', {
     method: 'POST',
     headers: {
@@ -50,9 +51,10 @@ const sendViaBrevo = async (email, otp) => {
       Accept: 'application/json',
     },
     body: JSON.stringify({
-      sender: { name: sender.name || 'ResumeAI', email: sender.email || 'noreply@resend.dev' },
+      sender: { name: sender.name || 'ResumeAI', email: sender.email || emailFrom },
       to: [{ email }],
-      ...getOTPEmail(otp),
+      subject,
+      htmlContent: html,
     }),
   });
 
