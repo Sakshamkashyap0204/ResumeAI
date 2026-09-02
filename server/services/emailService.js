@@ -6,10 +6,10 @@ const emailUser = stripWrappingQuotes(process.env.EMAIL_USER);
 // from that display are not part of the credential.
 const emailPass = stripWrappingQuotes(process.env.EMAIL_PASS).replace(/\s/g, '');
 const smtpSecure = stripWrappingQuotes(process.env.SMTP_SECURE || 'false').toLowerCase() === 'true';
-const resendApiKey = stripWrappingQuotes(process.env.RESEND_API_KEY);
+const brevoApiKey = stripWrappingQuotes(process.env.BREVO_API_KEY);
 const emailFrom = stripWrappingQuotes(process.env.EMAIL_FROM || (emailUser ? `AI Resume Analyzer <${emailUser}>` : ''));
 
-const isEmailConfigured = () => Boolean(resendApiKey || (emailUser && emailPass));
+const isEmailConfigured = () => Boolean(brevoApiKey || resendApiKey || (emailUser && emailPass));
 
 const transporter = nodemailer.createTransport({
   host: stripWrappingQuotes(process.env.SMTP_HOST || 'smtp.gmail.com'),
@@ -32,19 +32,33 @@ const getOTPEmail = (otp) => ({
   `,
 });
 
-const sendViaResend = async (email, otp) => {
-  const response = await fetch('https://api.resend.com/emails', {
+const parseSender = () => {
+  const match = /^(.+?)\s*<([^>]+)>$/.exec(emailFrom);
+  if (match) {
+    return { name: match[1].trim(), email: match[2].trim() };
+  }
+  return { name: 'ResumeAI', email: emailFrom };
+};
+
+const sendViaBrevo = async (email, otp) => {
+  const sender = parseSender();
+  const response = await fetch('https://api.brevo.com/v3/smtp/email', {
     method: 'POST',
     headers: {
-      Authorization: `Bearer ${resendApiKey}`,
+      'api-key': brevoApiKey,
       'Content-Type': 'application/json',
+      Accept: 'application/json',
     },
-    body: JSON.stringify({ from: emailFrom, to: [email], ...getOTPEmail(otp) }),
+    body: JSON.stringify({
+      sender: { name: sender.name || 'ResumeAI', email: sender.email || 'noreply@resend.dev' },
+      to: [{ email }],
+      ...getOTPEmail(otp),
+    }),
   });
 
   if (!response.ok) {
     const details = await response.text();
-    throw new Error(`Resend rejected the email (${response.status}): ${details}`);
+    throw new Error(`Brevo rejected the email (${response.status}): ${details}`);
   }
 };
 
@@ -60,13 +74,15 @@ const sendViaSmtp = async (email, otp) => {
 
 const sendOTPEmail = async (email, otp) => {
   if (!isEmailConfigured()) {
-    const error = new Error('Email delivery is not configured. Set RESEND_API_KEY and EMAIL_FROM.');
+    const error = new Error('Email delivery is not configured. Set BREVO_API_KEY and EMAIL_FROM.');
     error.statusCode = 503;
     throw error;
   }
 
   try {
-    if (resendApiKey) await sendViaResend(email, otp);
+    // Use Brevo if available (free, no domain needed)
+    // Otherwise fall back to SMTP (Gmail)
+    if (brevoApiKey) await sendViaBrevo(email, otp);
     else await sendViaSmtp(email, otp);
   } catch (cause) {
     console.error('OTP email delivery failed:', {
