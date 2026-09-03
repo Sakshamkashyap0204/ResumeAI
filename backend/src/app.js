@@ -15,6 +15,9 @@ const { sendError } = require('./utils/apiResponse');
 const authRoutes = require('./routes/auth.routes');
 const generationRoutes = require('./routes/generation.routes');
 const userRoutes = require('./routes/user.routes');
+const chatRoutes = require('./routes/chat.routes');
+const attachmentRoutes = require('./routes/attachment.routes');
+const memoryRoutes = require('./routes/memory.routes');
 
 const app = express();
 
@@ -53,6 +56,9 @@ app.get('/health', (req, res) => {
 app.use('/api/v1/auth', authRoutes);
 app.use('/api/v1/generations', apiLimiter, generationRoutes);
 app.use('/api/v1/users', apiLimiter, userRoutes);
+app.use('/api/v1/chat', apiLimiter, chatRoutes);
+app.use('/api/v1/attachments', apiLimiter, attachmentRoutes);
+app.use('/api/v1/memories', apiLimiter, memoryRoutes);
 
 // ─── 404 Handler ──────────────────────────────────────────
 app.use((req, res) => {

@@ -2,6 +2,7 @@ import { lazy, Suspense } from 'react';
 import { BrowserRouter, Routes, Route, Navigate } from 'react-router-dom';
 import { Toaster } from 'react-hot-toast';
 import { AuthProvider } from './store/AuthContext';
+import { WorkspaceProvider } from './store/WorkspaceContext';
 import ProtectedRoute from './components/layout/ProtectedRoute';
 import DashboardLayout from './components/layout/DashboardLayout';
 
@@ -10,6 +11,7 @@ const RegisterPage = lazy(() => import('./pages/auth/RegisterPage'));
 const VerifyEmailPage = lazy(() => import('./pages/auth/VerifyEmailPage'));
 const ForgotPasswordPage = lazy(() => import('./pages/auth/ForgotPasswordPage'));
 const GeneratePage = lazy(() => import('./pages/dashboard/GeneratePage'));
+const ChatPage = lazy(() => import('./pages/dashboard/ChatPage'));
 const HistoryPage = lazy(() => import('./pages/dashboard/HistoryPage'));
 const SavedPage = lazy(() => import('./pages/dashboard/SavedPage'));
 const ProfilePage = lazy(() => import('./pages/dashboard/ProfilePage'));
@@ -26,7 +28,8 @@ function App() {
   return (
     <BrowserRouter>
       <AuthProvider>
-        <Suspense fallback={<PageLoader />}>
+        <WorkspaceProvider>
+          <Suspense fallback={<PageLoader />}>
           <Routes>
             <Route path="/" element={<Navigate to="/dashboard" replace />} />
             <Route path="/login" element={<LoginPage />} />
@@ -37,6 +40,8 @@ function App() {
             <Route element={<ProtectedRoute />}>
               <Route element={<DashboardLayout />}>
                 <Route path="/dashboard" element={<GeneratePage />} />
+                <Route path="/dashboard/chat" element={<ChatPage />} />
+                <Route path="/dashboard/chat/:conversationId" element={<ChatPage />} />
                 <Route path="/dashboard/history" element={<HistoryPage />} />
                 <Route path="/dashboard/saved" element={<SavedPage />} />
                 <Route path="/dashboard/profile" element={<ProfilePage />} />
@@ -46,7 +51,8 @@ function App() {
 
             <Route path="*" element={<NotFoundPage />} />
           </Routes>
-        </Suspense>
+          </Suspense>
+        </WorkspaceProvider>
 
         <Toaster
           position="bottom-right"

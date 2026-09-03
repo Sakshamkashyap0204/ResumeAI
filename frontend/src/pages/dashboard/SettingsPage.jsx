@@ -7,6 +7,8 @@ import PasswordInput from '../../components/ui/PasswordInput';
 import Button from '../../components/ui/Button';
 import Card from '../../components/ui/Card';
 import toast from 'react-hot-toast';
+import { useEffect, useState } from 'react';
+import { memoryApi } from '../../api/memory.api';
 
 const passwordSchema = z
   .object({
@@ -25,6 +27,32 @@ const passwordSchema = z
   });
 
 function SettingsPage() {
+  const [memories, setMemories] = useState([]);
+  const [memoryLoading, setMemoryLoading] = useState(true);
+
+  const loadMemories = async () => {
+    try {
+      const { data } = await memoryApi.list();
+      setMemories(data.data.memories);
+    } catch {
+      toast.error('Unable to load memories');
+    } finally {
+      setMemoryLoading(false);
+    }
+  };
+
+  useEffect(() => { loadMemories(); }, []);
+
+  const removeMemory = async (id) => {
+    try { await memoryApi.remove(id); setMemories((current) => current.filter((memory) => memory._id !== id)); toast.success('Memory deleted'); }
+    catch { toast.error('Unable to delete memory'); }
+  };
+
+  const clearMemories = async () => {
+    try { await memoryApi.clear(); setMemories([]); toast.success('Memories cleared'); }
+    catch { toast.error('Unable to clear memories'); }
+  };
+
   const {
     register,
     handleSubmit,
@@ -85,6 +113,26 @@ function SettingsPage() {
             Update password
           </Button>
         </form>
+      </Card>
+
+      <Card className="p-6 mt-6">
+        <div className="flex items-center justify-between mb-5">
+          <div>
+            <h2 className="text-sm font-semibold text-[var(--color-text-primary)]">AI memory</h2>
+            <p className="text-xs text-[var(--color-text-secondary)] mt-1">Muse only saves details you explicitly ask it to remember.</p>
+          </div>
+          {memories.length > 0 && <Button type="button" variant="danger" size="sm" onClick={clearMemories}>Clear all</Button>}
+        </div>
+        {memoryLoading ? <p className="text-sm text-[var(--color-text-muted)]">Loading memories...</p> : memories.length === 0 ? <p className="text-sm text-[var(--color-text-muted)]">No saved memories.</p> : (
+          <div className="space-y-2">
+            {memories.map((memory) => (
+              <div key={memory._id} className="flex items-center justify-between gap-3 rounded-[var(--radius-md)] border border-[var(--color-border)] bg-[var(--color-surface-2)] px-3 py-2">
+                <span className="text-sm text-[var(--color-text-secondary)]">{memory.content}</span>
+                <button type="button" onClick={() => removeMemory(memory._id)} className="shrink-0 text-xs text-[var(--color-error)] hover:underline">Delete</button>
+              </div>
+            ))}
+          </div>
+        )}
       </Card>
     </div>
   );

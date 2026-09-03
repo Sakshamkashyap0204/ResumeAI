@@ -30,6 +30,18 @@ const generateRules = [
     .optional()
     .trim()
     .isLength({ max: 50 }).withMessage('Style cannot exceed 50 characters'),
+
+  body('attachmentIds')
+    .optional()
+    .isArray({ max: 2 }).withMessage('You can attach up to 2 files'),
+
+  body('attachmentIds.*')
+    .optional()
+    .isMongoId().withMessage('Invalid attachment ID'),
+
+  body('conversationId')
+    .optional()
+    .isMongoId().withMessage('Invalid conversation ID'),
 ];
 
 const updateTitleRules = [

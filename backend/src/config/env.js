@@ -37,6 +37,11 @@ const env = {
     model: process.env.OPENAI_MODEL || 'openai/gpt-oss-120b',
   },
 
+  vision: {
+    apiKey: process.env.OPENAI_VISION_API_KEY || null,
+    model: process.env.OPENAI_VISION_MODEL || 'gpt-4o-mini',
+  },
+
   cors: {
     clientOrigin: process.env.CLIENT_ORIGIN || 'http://localhost:5173',
   },

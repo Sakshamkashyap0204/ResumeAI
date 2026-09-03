@@ -4,17 +4,37 @@ const Generation = require('../models/Generation');
 const User = require('../models/User');
 const openaiService = require('./openai.service');
 const AppError = require('../utils/AppError');
+const attachmentService = require('./attachment.service');
+const Conversation = require('../models/Conversation');
+const Message = require('../models/Message');
+const memoryService = require('./memory.service');
 
 const PAGE_SIZE = 10;
 
 class GenerationService {
-  async generate(userId, type, prompt, parameters) {
+  async generate(userId, type, prompt, parameters, attachmentIds = [], conversationId = null) {
     const startTime = Date.now();
+    const attachments = attachmentIds.length ? await attachmentService.getOwned(userId, attachmentIds) : [];
+    const memories = await memoryService.relevant(userId, prompt);
+    let conversationContext = [];
+    if (conversationId) {
+      const conversation = await Conversation.findOne({ _id: conversationId, userId }).lean();
+      if (!conversation) throw new AppError('Conversation not found', 404);
+      conversationContext = await Message.find({ conversationId, userId })
+        .sort({ sequence: -1 })
+        .limit(20)
+        .select('role content -_id')
+        .lean();
+      conversationContext.reverse();
+    }
 
     const { content, tokensUsed, model } = await openaiService.generate(
       type,
       prompt,
-      parameters
+      parameters,
+      attachments,
+      conversationContext,
+      memories
     );
 
     const generationTimeMs = Date.now() - startTime;

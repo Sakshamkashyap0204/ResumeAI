@@ -4,7 +4,7 @@ const { v4: uuidv4 } = require('uuid');
 const crypto = require('crypto');
 const User = require('../models/User');
 const RefreshToken = require('../models/RefreshToken');
-const { signAccessToken, verifyRefreshToken } = require('../utils/jwt');
+const { signAccessToken } = require('../utils/jwt');
 const AppError = require('../utils/AppError');
 const emailService = require('./email.service');
 
@@ -139,13 +139,6 @@ class AuthService {
   }
 
   async refreshAccessToken(incomingToken) {
-    let decoded;
-    try {
-      decoded = verifyRefreshToken(incomingToken);
-    } catch {
-      throw new AppError('Invalid or expired refresh token', 401);
-    }
-
     const stored = await RefreshToken.findOne({
       token: incomingToken,
       isRevoked: false,
@@ -155,7 +148,7 @@ class AuthService {
       throw new AppError('Refresh token is invalid or expired', 401);
     }
 
-    const user = await User.findById(decoded.userId);
+    const user = await User.findById(stored.userId);
     if (!user || !user.isActive) throw new AppError('User not found', 401);
 
     await RefreshToken.findByIdAndUpdate(stored._id, { isRevoked: true });

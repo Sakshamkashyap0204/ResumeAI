@@ -5,12 +5,14 @@ const { sendSuccess } = require('../utils/apiResponse');
 
 async function generate(req, res, next) {
   try {
-    const { type, prompt, parameters = {} } = req.body;
+    const { type, prompt, parameters = {}, attachmentIds = [], conversationId = null } = req.body;
     const generation = await generationService.generate(
       req.user._id,
       type,
       prompt,
-      parameters
+      parameters,
+      attachmentIds,
+      conversationId
     );
     sendSuccess(res, 201, 'Content generated successfully', { generation });
   } catch (error) {
